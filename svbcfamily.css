@@ -11,7 +11,7 @@
 
 .section{
 	width: 100%;
-	height: 300px; 
+	height: auto; 
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -23,7 +23,7 @@
 }
 
 .header{
-	width: auto;
+	width: 100%;
 }
 
 .sectionHeader{
@@ -51,6 +51,18 @@
 	height: auto;
 	color: white;
 }
+.feature-1,
+.feature-3{
+	background-color: green;
+	height: auto;
+}
+
+.feature-2{
+	background-color: darkgreen;
+	height: auto;
+	color: white;
+}
+
 
 .footer{
 	background-color: forestgreen;
@@ -92,6 +104,14 @@
 	.content-right{
 		width: 50%;
 		align-content: center
+	}
+	
+	.feature-1,
+	.feature-2,
+	.feature-3{
+		width: 33%;
+		align-content: left;
+		display: block;
 	}
 	
 	.header{
