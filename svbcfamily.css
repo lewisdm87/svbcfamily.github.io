@@ -44,6 +44,13 @@
 	box-sizing: border-box;
 }
 
+.feature-1,
+.feature-2,
+.feature-3{
+	align-content: center;
+	width: 100%;
+}
+
 .tblLeft{
 	background-color: green;
 	height:auto;
