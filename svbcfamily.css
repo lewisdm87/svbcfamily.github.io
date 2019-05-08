@@ -40,13 +40,13 @@
 	background-color: #EAEDF0;
 }
 
-.feature-1{
+.tblLeft{
 	background-color: green;
 	height:auto;
 	
 }
 
-.feature-2 {
+.tblRight {
 	background-color: darkgreen;
 	height: auto;
 	color: white;
@@ -68,9 +68,8 @@
 
 /* Tablet Styles */
 @media only screen and (min-width: 401px) and (max-width: 900px) {
-	.sign-up,
-	.feature-1,
-	.feature-2{
+	.tblLeft,
+	.tblRight{
 		width: 50%;
 	}
 	.photos{
@@ -87,8 +86,8 @@
 		margin: 0 auto;
 	}
 	
-	.feature-1,
-	.feature-2,
+	.tblLeft,
+	.tblRight,
 	.content-left,
 	.content-right{
 		width: 50%;
