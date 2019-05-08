@@ -40,6 +40,10 @@
 	background-color: #EAEDF0;
 }
 
+.form{
+	box-sizing: border-box;
+}
+
 .tblLeft{
 	background-color: green;
 	height:auto;

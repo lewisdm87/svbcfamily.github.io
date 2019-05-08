@@ -1,14 +1,85 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>CONTACT</title>
+<style>
+	* {
+  box-sizing: border-box;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+	</style>
+
+<title>HEAD</title>
+	
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+	
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="svbcfamily.css"/>
 
 </head>
 
+	<div class="page">
 <body>
-	
-<img src="media/logo_200x200.png" width="50" height="50" alt=""/>
+	<div clas="section menu">
+	<img src="media/logo_200x200.png" width="50" height="50" alt=""/>
 	
 <nav class="navigation">
     <a href="index.html">Home</a> |
@@ -17,80 +88,68 @@
 	<a href="contact.html">Contact</a> |
 	<a href="events.html">Events</a>
 </nav>
-
-<div class="contact">
-<h1><span>Contact Us</span></h1>
-	
-<p><span>
-	Physical Address:
-	4699 Valley Pike
-	Stephens City, VA 22655
-	</span></p>
-	
-<p><span>
-	Mailing Address:
-	PO Box 1360
-	Stephens City, VA 22655</span></p>
-
-<!-- The form should not display. Needs to have .php handler written.
-<div class="center">
-
+	</div>
+	<div clss="section header">
+		<h1>Contact Us</h1>
+	</div>
+	<div class="section content">
 	<form>
+		<div class="form">
+ <!-- 
+  Replace form-handler.php with URL where to send the form-data when the form is submitted
+  Goto http://w3c.github.io/html-reference/input.text.html#input.text for more information on all attributes that can be used with text input field
+-->
+<form method="post" action="form-handler.php">
   <div>
-    
-    <label class="center">
-      <span>Your name</span><input id="name" type="text" name="name" />
-    </label> <br>
-
-    <label class="center">
-      <span>Email Address</span><input id="email" type="text" name="email" />
-    </label><br>
-
-    <label class="center">
-      <span>Subject</span><input id="subject" type="text" name="subject" />
-    </label><br>
-
-    <label class="center">
-      <span>Message</span><textarea id="feedback" name="feedback"></textarea>
-      <input type="button" value="Submit Form" />
-    </label>
-
+    <label for="name">Name: <span class="required">*</span> </label>
+    <input type="text" id="name" name="name" value="" placeholder="Your name" required="required" autofocus />
+  </div>
+  
+  <div>
+    <label for="email">Email: <span class="required">*</span> </label>
+    <input type="text" id="email" name="email" value="" placeholder="your@email.com" required="required" />
+  </div>
+  
+  <div>
+    <label for="message">Message: <span class="required">*</span> </label>
+    <textarea id="message" name="message" placeholder="Write your message here." required ></textarea>
+  </div>
+  
+  <div>
+    <input type="submit" value="Submit" id="submit" />
   </div>
 </form>
-	
--->
-	
-	
+			</div>
+</form>
 	
 	
 	
 	
+	</div>
+	<div class="feature-1">
+	
+	<h3>Physical Address:</h3>
+		<p>4699 Valley Pike</p>
+	<p>Stephens City, VA 22655</p>
+	</div>
+	<div class="feature-2">
+	<h3>Mailing Address:</h3>
+		<p>PO Box 1360</p>
+	<p>Stephens City, VA 22655</p></div>
+	<div class="feature-3">
+		<h3>Email:</h3><p><a href="mailto:info@svbcfamily.com">info@svbcfamily.com</a></p>
+		<h3>Phone:</h3><p><a href="tel:1-540-868-4020">540-868-4020</a></p>
+		<h3>Fax:</h3><p>540-869-4679</p></div>
+</body>
+	</div>
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-</div>
-<br>	
-
-<p><span>Email: <a href="mailto:info@svbcfamily.com">info@svbcfamily.com</a> | 
-	Phone: <a href="tel:1-540-868-4020">540-868-4020</a> | Fax: 540-869-4679</span>
-</p>
-</div>
 <footer>
+	<div class="footer">
 	<p>
 	  Office: <a href="tel:1-540-868-4020">540-868-4020</a> |
 	  Email: <a href="mailto:info@svbcfamily.com">info@svbcfamily.com</a>
 	</p>
-	
-</footer>
-</body>
-
+</div>
+	</footer>
 </html>
