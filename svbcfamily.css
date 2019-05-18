@@ -17,6 +17,26 @@
 	align-items: center;
 }
 
+.endOfPage{
+	width: 100%;
+	justify-content: center;
+	color: white;
+	background-color: darkgreen;
+	padding-top: 3em;
+	padding-bottom: 1em;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	
+}
+
+.container-features{
+	width:100;
+	display: inline-flex;
+	flex-wrap: wrap;
+	
+}
+
 .menu{
 	background-color: forestgreen;
 	height: 80px;
@@ -30,12 +50,28 @@ a{
 a.nav{
 	color: blue;
 }
+
+a:hover,
+a.nav:hover{
+	color: black;
+	background-color: yellow;
+}
+
+.center{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+
 .header{
 	width: 100%;
 }
 
 .sectionHeader{
-	width: auto;
+	width: 100%;
+	text-align: center;
 }
 
 .content {
@@ -48,16 +84,59 @@ a.nav{
 	background-color: #EAEDF0;
 }
 
+.endofPage{
+	color: white;
+	text-align: center;
+	background-color: darkgreen;
+	width: 100%;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
 .form{
 	box-sizing: border-box;
+}
+
+.footer{
+	width: 100;
+	display: flex;
+	flex-wrap: wrap;
+	padding-left: 2em;
+	padding-top: 1em;
+	padding-bottom: 2em;
+}
+
+.featureTitle{
+	text-decoration: underline;
+	padding-top: 1em;
+	text-align: center;
+}
+
+.featureContent{
+	padding-top: 1em;
 }
 
 .feature-1,
 .feature-2,
 .feature-3{
+	display: flex;
 	align-content: center;
 	width: 100%;
+	flex-wrap: wrap;
+	justify-content: center;
 }
+
+.feature-1,
+.feature-3{
+	background-color: green;
+	color: white;
+}
+
+.feature-2{
+	background-color: darkgreen;
+	color: white;
+}
+
 
 .tblLeft{
 	background-color: green;
@@ -71,25 +150,11 @@ a.nav{
 	height: auto;
 	color: white;
 }
-.feature-1,
-.feature-3{
-	background-color: green;
-	height: auto;
-	color: white;
+
+.socialMedia{
+	display: flex;
 }
 
-.feature-2{
-	background-color: darkgreen;
-	height: auto;
-	color: white;
-}
-
-
-.footer{
-	background-color: forestgreen;
-	color: white;
-	align-content: center;
-}
 
 
 /* Mobile Styles */
@@ -97,6 +162,13 @@ a.nav{
 	.photos{
 		display: none;
 	}
+	.copyRight,
+	.socialMedia{
+		width: 100%;
+		justify-content: center;
+	}
+	
+
 }
 
 /* Tablet Styles */
@@ -109,11 +181,20 @@ a.nav{
 		align-content: center;
 		width:auto;
 	}
+	
+	.copyRight,
+	.socialMedia{
+		width: 100%;
+		justify-content: center;
+		text-align: center;
+	}
+	
+	
 }
 
 
 /* Desktop Styles */
-@media only screen and (min-width: 961px){
+@media only screen and (min-width: 901px){
 	.page{
 		width: 960px;
 		margin: 0 auto;
@@ -130,12 +211,22 @@ a.nav{
 	.feature-1,
 	.feature-2,
 	.feature-3{
-		width: 33%;
+		width: 33.333%;
 		align-content: left;
 		display: block;
 	}
 	
+
 	.header{
 		height: auto;
 	}
+	
+	
+	.socialMedia{
+		width: 50%;
+		justify-content: flex-end;
+		
+	}
+	
+	
 }
