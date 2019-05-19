@@ -7,6 +7,8 @@
 .page{
 	display: flex;
 	flex-wrap: wrap;
+	padding-left: 1em;
+	padding-right: 1em;
 }
 
 .section{
