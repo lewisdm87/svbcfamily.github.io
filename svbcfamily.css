@@ -48,6 +48,10 @@
 	color: white;
 }
 
+p{
+	padding: 5px;
+}
+
 a{
 	color: white;
 }
@@ -133,6 +137,11 @@ a.nav:hover{
 	justify-content: center;
 	padding-top: 1em;
 	padding-bottom: 1em;
+	padding-left: 1em;
+}
+
+.featTitle{
+	text-decoration: underline;
 }
 
 .featContent{
