@@ -48,8 +48,16 @@
 	color: white;
 }
 
+blockquote{
+	padding-left: 1em;
+}
+
+h1{
+	padding-left: 1em;
+}
+
 p{
-	padding: 5px;
+	padding-left: 1em;
 }
 
 a{
