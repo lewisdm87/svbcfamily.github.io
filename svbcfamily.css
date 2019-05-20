@@ -9,6 +9,10 @@
 	flex-wrap: wrap;
 }
 
+.p {
+	margin: 2px;
+}
+
 .section{
 	width: 100%;
 	height: auto; 
@@ -35,6 +39,11 @@
 	display: inline-flex;
 	flex-wrap: wrap;
 	
+}
+
+.content-left,
+.content-right{
+	padding: 15px;
 }
 
 .menu{
@@ -66,6 +75,7 @@ a.nav:hover{
 
 
 .header{
+	padding: 15px;
 	width: 100%;
 }
 
@@ -75,6 +85,7 @@ a.nav:hover{
 }
 
 .content {
+	padding: 15px;
 	display: inline;
 	background-color: #EAEDF0;
 	height: auto;
@@ -165,6 +176,7 @@ a.nav:hover{
 
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
+	*{margin: 2px;}
 	.photos{
 		display: none;
 	}
