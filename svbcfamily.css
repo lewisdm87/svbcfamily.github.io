@@ -48,6 +48,10 @@
 	
 }
 
+.google-calendar{
+	width:100%;
+}
+
 .container-features{
 	width:100;
 	display: inline-flex;
