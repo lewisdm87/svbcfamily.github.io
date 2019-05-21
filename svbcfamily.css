@@ -55,6 +55,13 @@
 	
 }
 
+.container-tables{
+	width: 100;
+	display: inline-flex;
+	flex-wrap: wrap;
+	color: white;
+}
+
 .content-left,
 .content-right{
 	padding: 15px;
@@ -137,14 +144,27 @@ a.nav:hover{
 	padding-bottom: 2em;
 }
 
-.featureTitle{
+.feature-title{
 	text-decoration: underline;
 	padding-top: 1em;
 	text-align: center;
 }
 
-.featureContent{
+.feature-content{
 	padding-top: 1em;
+}
+
+.container-tables{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	width: 100%;
+	background: green;
+	justify-content: space-around;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-top: 1em;
+	padding-bottom: 1em;
 }
 
 .feature-1,
@@ -179,21 +199,13 @@ a.nav:hover{
 	color: white;
 }
 
-.section-tables{
-	align-content: center;
-	height: auto;
-	color: white;
-	width: 100%;
-	display: flex;
-}
-
 .table-left{
 	background-color: green;
 	padding-left: 1em;
 }
 
 .table-right {
-	background-color: darkgreen;
+	background-color: green;
 	padding-left: 1em;
 	
 }
@@ -216,20 +228,12 @@ a.nav:hover{
 		justify-content: center;
 	}
 	
-	.table-left,
-	.table-right {
-		width: 100%;
-	}
 	
 
 }
 
 /* Tablet Styles */
 @media only screen and (min-width: 401px) and (max-width: 900px) {
-	.table-left,
-	.table-right {
-		width: 100%;
-	}
 	
 	.photos{
 		align-content: center;
@@ -258,11 +262,7 @@ a.nav:hover{
 		width: 100%;
 	}
 	
-	.table-left,
-	.table-right {
-		width: 100%;
-	}
-	
+
 	.content-left,
 	.content-right{
 		width: 50%;
@@ -275,6 +275,12 @@ a.nav:hover{
 		width: 33.333%;
 		align-content: left;
 		display: block;
+	}
+	
+	.table-left,
+	.table-right{
+		width: 50;
+		align-content: center;
 	}
 	
 
