@@ -9,7 +9,17 @@
 	flex-wrap: wrap;
 }
 
-.section{
+.section-menu{
+	width: 100%;
+	height: 80px; 
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: forestgreen;
+}
+
+.section-header{
 	width: 100%;
 	height: auto; 
 	display: flex;
@@ -40,12 +50,6 @@
 .content-left,
 .content-right{
 	padding: 15px;
-}
-
-.menu{
-	background-color: forestgreen;
-	height: 80px;
-	color: white;
 }
 
 blockquote{
@@ -92,7 +96,7 @@ a.nav:hover{
 	text-align: center;
 }
 
-.content {
+.section-main {
 	padding: 15px;
 	display: inline;
 	background-color: #EAEDF0;
@@ -103,7 +107,7 @@ a.nav:hover{
 	background-color: #EAEDF0;
 }
 
-.endofPage{
+.section-bottom{
 	color: white;
 	text-align: center;
 	background-color: darkgreen;
@@ -116,7 +120,7 @@ a.nav:hover{
 	box-sizing: border-box;
 }
 
-.footer{
+.section-footer{
 	width: 100;
 	display: flex;
 	flex-wrap: wrap;
@@ -181,7 +185,7 @@ a.nav:hover{
 	color: white;
 }
 
-.socialMedia{
+.footer-social{
 	display: flex;
 }
 
@@ -194,7 +198,7 @@ a.nav:hover{
 		display: none;
 	}
 	.copyRight,
-	.socialMedia{
+	.footer-social{
 		width: 100%;
 		justify-content: center;
 	}
@@ -214,7 +218,7 @@ a.nav:hover{
 	}
 	
 	.copyRight,
-	.socialMedia{
+	.footer-social{
 		width: 100%;
 		justify-content: center;
 		text-align: center;
@@ -248,12 +252,12 @@ a.nav:hover{
 	}
 	
 
-	.header{
+	.section-header{
 		height: auto;
 	}
 	
 	
-	.socialMedia{
+	.footer-social{
 		width: 50%;
 		justify-content: flex-end;
 		
