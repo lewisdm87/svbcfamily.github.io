@@ -66,9 +66,9 @@
 	color: white;
 }
 
-.content-left,
-.content-right{
-	padding: 15px;
+.main-left,
+.main-right{
+	padding: 5px;
 }
 
 blockquote{
@@ -79,12 +79,15 @@ li{
 	padding: 1em;
 }
 
-h1{
-	padding-left: 1em;
+h1,
+h2{
+	padding-left: 10px;
+	font-size: 20px;
 }
 
 p{
 	padding-left: 1em;
+	font-size: large;
 }
 
 a{
@@ -126,7 +129,8 @@ a.nav:hover{
 	height: auto;
 }
 
-.content-left{
+.main-left,
+.main-right{
 	background-color: #EAEDF0;
 }
 
@@ -271,8 +275,8 @@ a.nav:hover{
 	}
 	
 
-	.content-left,
-	.content-right{
+	.main-left,
+	.main-right{
 		width: 50%;
 		align-content: center
 	}
