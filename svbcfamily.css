@@ -198,6 +198,10 @@ table{
 	flex-wrap: wrap;
 }
 
+.index-main{
+	display: flex;
+}
+
 .section-main {
 	padding: 15px;
 	display: inline;
