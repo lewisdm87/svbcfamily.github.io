@@ -82,20 +82,20 @@ input[type=submit]:hover {
 <body>
 	<div class="page">
 
-	<div class="section-menu">
-		<img src="media/logo_200x200.png" width="50" height="50" alt=""/>
-<nav class="navigation">
+	<header>
+	<img src="media/logo_200x200.png" width="50" height="50" alt=""/>
+<nav>
     <a href="index.html">Home</a> |
 	<a href="about.html">About</a> |
 	<a href="awana.html">Awana Clubs</a> |
 	<a href="calendar.html">Calendar</a> |
 	<a href="contact.html">Contact</a> |
-	<a href="events.html">Events</a>
+	<a href="events.html">Events</a> |
+	<a href="photos.html">Photos</a>
 </nav>
+	</header>
 		
-	</div>
-	<div class="section-header"><h1>Contact Us</h1></div>
-	<div class="section-content">
+	<section class="title"><h1>Contact Us</h1></section>
 		
 <!--		
 	<form>
@@ -126,50 +126,55 @@ input[type=submit]:hover {
 	
 	-->
 	
+	<section class="contact-main">
 	
-	</div>
-	<div class="feature-1">
-	<div class="feat-title">
-	<p>Physical Address:</p></div>
-	<div class="feat-content">
-		<p>4699 Valley Pike</p>
-	<p>Stephens City, VA 22655</p></div>
-	</div>
-	<div class="feature-2">
-	<div class="feat-title">
-	<p>Mailing Address:</p></div>
-		<div class="feat-content">
-		<p>PO Box 1360</p>
-	<p>Stephens City, VA 22655</p></div></div>
-	<div class="feature-3">
-	<table>	
-  <tbody>
-    <tr>
-      <td>Admin</td>
-		<td><a href="mailto:info@svbcfamily.com">info@svbcfamily.com</a></td>
-    </tr>
-	  <tr>
-	    <td>Pastor</td>
-		  <td><a href="mailto:pastor@svbcfamily.com">pastor@svbcfamily.com</a></td>
-	  
-	  </tr>
-    <tr>
-      <td>Office</td>
-      <td><a href="tel:1-540-868-4020">540-868-4020</a></td>
-    </tr>
-    <tr>
-      <td>Fax</td>
-      <td>540-869-4679</td>
-    </tr>
-  </tbody>
-</table>
-	</div>
-
-</div>
+	<section class="addr-physical">
+		<div class="feature-1">
+			<div class="featTitle"><h2>Physical Address:</h2></div>
+				<div class="featContent">
+			<p> 4699 Valley Pike</p>
+		<p> Stephens City, VA 22655</p>
+				</div>
+			</div>
+	</section>
+		
+	<section class="addr-mail">
+		<div class="feature-2">
+			<div class="featTitle"><h2>Mailing Address:</h2></div>
+		<div class="featContent"><p>PO Box 1360</p>
+		<p>Stephens City, VA 22655</p>
+	</div></div></section>
+		
+	<table class="contact-tbl">
+		<div class="feature-3">
+		<tr>
+			<td>Admin</td>
+			<td>:</td>
+			<td><a href="mailto:info@svbcfamily.com">info@svbcfamily.com</a></td>
+		</tr>	
+		<tr>
+			<td>Pastor</td>
+			<td>:</td>
+			<td><a href="mailto:pastor@svbcfamily.com">pastor@svbcfamily.com</a></td>
+		</tr>
+		<tr>
+			<td>Office</td>
+			<td>:</td>
+			<td><a href="tel:1-540-868-4020">540-868-4020</a></td>
+		</tr>
+		<tr>
+			<td>Fax</td>
+			<td>:</td>
+			<td>540-869-4679</td>
+		</tr>
+		</div>
+	</table>
+	
+	</section>	
 
 <footer>
 	
-	<div class="section-footer">
+	
 		<div class="footer-copyRight">Copyright &copy; 2019 Shenandoah Valley Baptist Church. All rights reserved.</div>
 		
  		<div class="footer-social">
@@ -187,8 +192,9 @@ input[type=submit]:hover {
 		<a href="https://www.facebook.com/svbc.awana" title="facebook.com/svbc.awana"><img src="media/ico/fb.png" width="25" height="25" alt="fb-awana"/></a>
 	</div>
 		
-		</div>
+	
 </footer>
+	</div>
 
 </body>
 </html>

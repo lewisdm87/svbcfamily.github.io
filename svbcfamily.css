@@ -19,65 +19,20 @@
 	background: forestgreen;
 }
 
-.section-header{
+header{
+	padding: 15px;
 	width: 100%;
-	height: auto; 
+	background-color: green;
+	color: white;
+	height: auto;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
-
-.section-header__index{
-	width: 100%;
-	height: auto; 
-	display: inline;
-	justify-content: center;
-	align-items: center;
-}
-
-.endOfPage{
-	width: 100%;
-	justify-content: center;
-	color: white;
-	background-color: darkgreen;
-	padding-top: 3em;
-	padding-bottom: 1em;
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	
-}
-
-.google-calendar{
-	width:100%;
-}
-
-.container-features{
-	width:100;
-	display: inline-flex;
-	flex-wrap: wrap;
-	
-}
-
-.container-tables{
-	width: 100;
-	display: inline-flex;
-	flex-wrap: wrap;
-	color: white;
-}
-
-.main-left,
-.main-right{
-	padding: 5px;
-}
-
 blockquote{
 	padding-left: 1em;
 }
 
-li{
-	padding: 1em;
-}
 
 h1,
 h2{
@@ -85,8 +40,14 @@ h2{
 	font-size: 20px;
 }
 
+li{
+	padding: .75em;
+}
+
 p{
 	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: .5em;
 	font-size: large;
 }
 
@@ -104,6 +65,119 @@ a.nav:hover{
 	background-color: yellow;
 }
 
+figcaption{
+	text-align: center;
+	font-size: small;
+	padding-bottom: 2em;
+	padding-top: -3em;
+}
+
+footer{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
+.main{
+	background-color: #EAEDF0;
+	padding-top: 1em;
+}
+
+table{
+	background-color: green;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-top: 1em;
+}
+
+.about{
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #EAEDF0;
+	padding-top: 1em;
+	padding-left: 2em;
+	padding-right: 1em;
+}
+
+.awana{
+	background-color: #EAEDF0;
+	display: flex;
+	align-content: center;
+	width: 100%;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	padding-left: 1em;
+}
+
+.contact-main{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	align-content: center;
+}
+
+.addr-mail,
+.addr-physical{
+	padding-top: 1em;
+	text-align: center;
+}
+
+.container-tables{
+	color: white;
+}
+
+.title{
+	text-align: center;
+	width: 100%;
+}
+
+.endOfPage{
+	width: 100%;
+	justify-content: center;
+	color: white;
+	background-color: darkgreen;
+	padding-top: 3em;
+	padding-bottom: 1em;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	
+}
+
+.faith,
+.five-gs{
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 1em;
+}
+
+.final{
+	background-color: green;
+	width: 100%;
+	color: white;
+	text-align: center;
+	padding-top: 2em;
+	padding-bottom: 1em;
+}
+
+.google-calendar{
+	width:100%;
+}
+
+.main-left,
+.main-right{
+	padding: 5px;
+}
+
+.main-left__faith{
+	width: 80%;
+	padding-right: 1em;
+}
+
 .center{
 	display: block;
   	margin-left: auto;
@@ -111,19 +185,17 @@ a.nav:hover{
   	width: 50%;
 }
 
-
 .header{
 	padding: 15px;
 	width: 100%;
+	background-color: blue;
+	color: white;
 }
 
-.sectionHeader{
-	width: 100%;
-	text-align: center;
-}
-
-.section-header__index{
-	height: 150px;
+.highlights{
+	background-color: #EAEDF0;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .section-main {
@@ -138,6 +210,7 @@ a.nav:hover{
 	background-color: #EAEDF0;
 	padding-left: 1em;
 	padding-right: 1em;
+	padding-bottom: 1em;
 }
 
 .section-bottom{
@@ -147,29 +220,6 @@ a.nav:hover{
 	width: 100%;
 	padding-top: 2em;
 	padding-bottom: 2em;
-}
-
-.form{
-	box-sizing: border-box;
-}
-
-.section-footer{
-	width: 100;
-	display: flex;
-	flex-wrap: wrap;
-	padding-left: 2em;
-	padding-top: 1em;
-	padding-bottom: 2em;
-}
-
-.feature-title{
-	text-decoration: underline;
-	padding-top: 1em;
-	text-align: center;
-}
-
-.feature-content{
-	padding-top: 1em;
 }
 
 .container-tables{
@@ -185,52 +235,23 @@ a.nav:hover{
 	padding-bottom: 1em;
 }
 
-.feature-1,
-.feature-2,
-.feature-3{
-	display: flex;
-	align-content: center;
-	width: 100%;
-	flex-wrap: wrap;
-	justify-content: center;
-	padding-top: 1em;
-	padding-bottom: 1em;
-	padding-left: 1em;
+
+
+.table-ages{
+	background-color: #EAEDF0;
 }
 
-.featTitle{
-	text-decoration: underline;
-}
-
-.featContent{
-	padding-left: 1em;
-}
-
-.feature-1,
-.feature-3{
+.addr-physical{
 	background-color: green;
-	color: white;
 }
-
-.feature-2{
+.addr-mail{
 	background-color: darkgreen;
+}
+
+.contact-main{
 	color: white;
 }
 
-.table-left{
-	background-color: green;
-	padding-left: 1em;
-}
-
-.table-right {
-	background-color: green;
-	padding-left: 1em;
-	
-}
-
-.footer-social{
-	display: flex;
-}
 
 
 
@@ -240,7 +261,7 @@ a.nav:hover{
 	.photos{
 		display: none;
 	}
-	.copyRight,
+	.footer-copyRight,
 	.footer-social{
 		width: 100%;
 		justify-content: center;
@@ -249,6 +270,33 @@ a.nav:hover{
 	.main-left,
 	.main-right{
 		width:100%;
+	}
+	
+	.mission,
+	.ages,
+	.meetings{
+		width: 100%;
+		align-content: center;
+		padding-bottom: 1em;
+	}
+	
+	.addr-physical,
+	.addr-mail,
+	.contact-tbl{
+		width: 100%;
+		align-content: center;
+	}
+	
+	.faith,
+	.five-gs{
+		width: 100%;
+		text-align: left;
+	}
+	
+	.purpose,
+	.commandment,
+	.commission{
+		width: 100%;
 	}
 	
 	
@@ -263,7 +311,7 @@ a.nav:hover{
 		width:auto;
 	}
 	
-	.copyRight,
+	.footer-copyRight,
 	.footer-social{
 		width: 100%;
 		justify-content: center;
@@ -274,6 +322,37 @@ a.nav:hover{
 	.main-right{
 		width: 100%;
 	}
+	
+	.mission,
+	.ages,
+	.meetings{
+		width: 100%;
+		align-content: center;
+	}
+	
+	.addr-physical,
+	.addr-mail,
+	.contact-tbl{
+		width: 100%;
+		align-content: center;
+	}
+	
+	.faith,
+	.five-gs{
+		width: 100%;
+		text-align: left;
+	}
+	
+	.purpose,
+	.commandment,
+	.commission{
+		width: 100%;
+		padding-bottom: 1em;
+		padding-right: 1em;
+		text-align: center;
+	}
+	
+	
 	
 	
 }
@@ -286,8 +365,23 @@ a.nav:hover{
 		margin: 0 auto;
 	}
 	
+	.faith{
+		width: 80%;
+	}
+	.five-gs{
+		width: 20%;
+		
+	}
+	
 	.section-tables{
 		width: 100%;
+	}
+	
+	.mission,
+	.ages,
+	.meetings{
+		width: 33.333%;
+		align-content: left;
 	}
 	
 
@@ -295,14 +389,6 @@ a.nav:hover{
 	.main-right{
 		width: 50%;
 		align-content: center
-	}
-	
-	.feature-1,
-	.feature-2,
-	.feature-3{
-		width: 33.333%;
-		align-content: left;
-		display: block;
 	}
 	
 	.table-left,
@@ -316,10 +402,27 @@ a.nav:hover{
 		height: auto;
 	}
 	
+	.footer-copyRight{
+		width: 80%
+	}
+	
 	
 	.footer-social{
-		width: 50%;
+		width: 20%;
 		justify-content: flex-end;
-		
 	}
+	
+	.addr-mail,
+	.addr-physical,
+	.contact-tbl{
+		width: 33.333%;
+	}
+	
+	.purpose,
+	.commandment,
+	.commission{
+		width: 33.333%;
+		padding-right: 1em;
+	}
+	
 }
