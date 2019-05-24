@@ -196,6 +196,7 @@ td{
 	display: flex;
 	flex-wrap: wrap;
 	align-content: center;
+	width: 100%;
 }
 
 .center{
@@ -226,7 +227,6 @@ td{
 	padding: 15px;
 	display: inline;
 	background-color: #EAEDF0;
-	height: auto;
 }
 
 .main-left,
