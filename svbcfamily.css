@@ -19,12 +19,6 @@
 	background: forestgreen;
 }
 
-.contact-tbl{
-	background: green;
-	color: white;
-	padding-bottom: 1em;
-}
-
 header{
 	padding: 15px;
 	width: 100%;
@@ -86,17 +80,7 @@ footer{
 	padding-top: 1em;
 }
 
-.main{
-	background-color: #EAEDF0;
-	padding-top: 1em;
-	display: flex;
-	flex-wrap: wrap;
-}
 
-table{
-	padding-left: 1em;
-	padding-right: 1em;
-}
 
 td{
 	padding-left: .25em;
@@ -122,23 +106,6 @@ td{
 	padding-top: 1em;
 	padding-bottom: 1em;
 	padding-left: 1em;
-}
-
-.contact-main{
-	display: flex;
-	flex-wrap: wrap;
-	width: 100%;
-	align-content: center;
-}
-
-.addr-mail,
-.addr-physical{
-	padding-top: 1em;
-	text-align: center;
-}
-
-.container-tables{
-	color: white;
 }
 
 .title{
@@ -179,25 +146,24 @@ td{
 	width:100%;
 }
 
-.main-left,
-.main-right{
-	padding: 5px;
-}
-
 .main-left__faith{
 	width: 80%;
 	padding-right: 1em;
 }
 
-.services{
-	padding: 1em;
-	background-color: green;
-	color: white;
+/* Home Page */
+
+
+.section-main {
+	background-color: #EAEDF0;
+}
+.main{
+	background-color: #EAEDF0;
+	padding-top: 1em;
 	display: flex;
 	flex-wrap: wrap;
-	align-content: center;
-	width: 100%;
 }
+
 
 .center{
 	display: block;
@@ -219,23 +185,6 @@ td{
 	flex-wrap: wrap;
 }
 
-.index-main{
-	display: flex;
-}
-
-.section-main {
-	padding: 15px;
-	display: inline;
-	background-color: #EAEDF0;
-}
-
-.main-left,
-.main-right{
-	background-color: #EAEDF0;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 1em;
-}
 
 .section-bottom{
 	color: white;
@@ -259,24 +208,34 @@ td{
 	padding-bottom: 1em;
 }
 
-
-
 .table-ages{
 	background-color: #EAEDF0;
 }
 
-.addr-physical{
-	background-color: green;
-}
-.addr-mail{
-	background-color: darkgreen;
-}
-
+/* Contact Page */
 .contact-main{
+	padding: 1em;
 	color: white;
+	background-color: green;
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+	width: 100%;
 }
 
-
+/* Home Page */
+.services{
+	background-color: green;
+	display: flex;
+	flex-wrap: wrap;
+	color: white;
+	padding: 1em;
+}
+.tbl-sunday,
+.tbl-wednesday{
+	padding-top: .5em;
+	padding-bottom: 1em;
+}
 
 
 /* Mobile Styles */
@@ -290,25 +249,13 @@ td{
 		width: 100%;
 		justify-content: center;
 	}
-	
-	.main-left,
-	.main-right{
-		width:100%;
-	}
-	
+		
 	.mission,
 	.ages,
 	.meetings{
 		width: 100%;
 		align-content: center;
 		padding-bottom: 1em;
-	}
-	
-	.addr-physical,
-	.addr-mail,
-	.contact-tbl{
-		width: 100%;
-		align-content: center;
 	}
 	
 	.faith,
@@ -323,10 +270,17 @@ td{
 		width: 100%;
 	}
 	
-	.table-left,
-	.table-right{
-		align-content: center;
-		width: 100%;
+	/* Contact Page */
+	.addr-physical,
+	.addr-mailing{
+		width: 50%;
+	}
+	
+	.contact-tbl{
+		width: 33%;
+		padding: 2em;
+		text-align: left;
+		margin-left: 25%;
 	}
 	
 	
@@ -348,25 +302,14 @@ td{
 		text-align: center;
 	}
 	
-	.main-left,
-	.main-right{
-		width: 100%;
-	}
-	
+		
 	.mission,
 	.ages,
 	.meetings{
 		width: 100%;
 		align-content: center;
 	}
-	
-	.addr-physical,
-	.addr-mail,
-	.contact-tbl{
-		width: 100%;
-		align-content: center;
-	}
-	
+		
 	.faith,
 	.five-gs{
 		width: 100%;
@@ -382,13 +325,27 @@ td{
 		text-align: center;
 	}
 	
-	.table-left,
-	.table-left{
-		align-content: center;
-		width: 100%;
+	/* Home Page */
+	.tbl-sunday,
+	.tbl-wednesday{
+		width: 50%;
+		margin-left: 25%;
 	}
 	
 	
+	/* Contact Page */
+	
+	.addr-physical,
+	.addr-mailing{
+		width: 50%;
+	}
+	
+	.contact-tbl{
+		width: 33%;
+		padding: 2em;
+		text-align: left;
+		margin-left: 25%;
+	}
 	
 	
 }
@@ -419,20 +376,7 @@ td{
 		width: 33.333%;
 		align-content: left;
 	}
-	
-
-	.main-left,
-	.main-right{
-		width: 50%;
-		align-content: center
-	}
-	
-	.table-left,
-	.table-right{
-		width: 50%;
-		align-content: center;
-	}
-	
+		
 
 	.section-header{
 		height: auto;
@@ -447,18 +391,35 @@ td{
 		width: 20%;
 		justify-content: flex-end;
 	}
-	
-	.addr-mail,
-	.addr-physical,
-	.contact-tbl{
-		width: 33.333%;
-	}
-	
+		
 	.purpose,
 	.commandment,
 	.commission{
 		width: 33.333%;
 		padding-right: 1em;
 	}
+	
+	/* Home Page */
+	.tbl-sunday,
+	.tbl-wednesday{
+		width: 40%;
+	}
+	
+	.tbl-sunday{
+		margin-left: 10%;
+	}
+	
+	.main-left,
+	.main-right{
+		width: 50%;
+	}
+	
+	/* Contact Page */
+	.addr-physical,
+	.addr-mailing,
+	.contact-tbl{
+		width: 33.3333%;
+	}
+	
 	
 }
