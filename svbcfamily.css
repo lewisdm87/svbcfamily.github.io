@@ -96,7 +96,6 @@ footer{
 table{
 	padding-left: 1em;
 	padding-right: 1em;
-	padding-top: 1em;
 }
 
 td{
@@ -191,6 +190,7 @@ td{
 }
 
 .services{
+	padding: 1em;
 	background-color: green;
 	color: white;
 	display: flex;
