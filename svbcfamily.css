@@ -260,6 +260,12 @@ td{
 		width: 100%;
 	}
 	
+	/* Events Page */
+	.events-fig,
+	.events-info{
+		width: 100%;
+	}
+	
 	
 
 }
@@ -325,6 +331,13 @@ td{
 	.ages{
 		margin-left: 25%;
 	}
+	
+	/* Events Page */
+	.events-fig,
+	.events-info{
+		width: 50%;
+	}
+	
 	
 	
 }
@@ -400,6 +413,12 @@ td{
 	.meetings{
 		width: 33.333%;
 		align-content: left;
+	}
+	
+	/* Events Page */
+	.events-fig,
+	.events-info{
+		width: 50%;
 	}
 
 	
