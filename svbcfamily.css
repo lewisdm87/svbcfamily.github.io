@@ -205,6 +205,14 @@ td{
 
 }
 
+/* Events Page */
+.events-main{
+	background-color: #EAEDF0;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
 	*{margin: 2px;}
