@@ -96,18 +96,6 @@ td{
 	padding-right: 1em;
 }
 
-.awana{
-	background-color: #EAEDF0;
-	display: flex;
-	align-content: center;
-	width: 100%;
-	flex-wrap: wrap;
-	justify-content: center;
-	padding-top: 1em;
-	padding-bottom: 1em;
-	padding-left: 1em;
-}
-
 .title{
 	text-align: center;
 	width: 100%;
@@ -162,12 +150,17 @@ td{
 	flex-wrap: wrap;
 }
 
-
-.center{
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
-  	width: 50%;
+.services{
+	background-color: green;
+	display: flex;
+	flex-wrap: wrap;
+	color: white;
+	padding: 1em;
+}
+.tbl-sunday,
+.tbl-wednesday{
+	padding-top: .5em;
+	padding-bottom: 1em;
 }
 
 .header{
@@ -204,20 +197,13 @@ td{
 	width: 100%;
 }
 
-/* Home Page */
-.services{
-	background-color: green;
-	display: flex;
-	flex-wrap: wrap;
-	color: white;
+/* Calendar Page */
+.g-cal{
 	padding: 1em;
-}
-.tbl-sunday,
-.tbl-wednesday{
-	padding-top: .5em;
-	padding-bottom: 1em;
-}
+	width: 100%;
+	display: flex;
 
+}
 
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
