@@ -152,8 +152,6 @@ td{
 }
 
 /* Home Page */
-
-
 .section-main {
 	background-color: #EAEDF0;
 }
@@ -195,23 +193,6 @@ td{
 	padding-bottom: 2em;
 }
 
-.container-tables{
-	display: flex;
-	flex-wrap: wrap;
-	align-content: center;
-	width: 100%;
-	background: green;
-	justify-content: space-around;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-top: 1em;
-	padding-bottom: 1em;
-}
-
-.table-ages{
-	background-color: #EAEDF0;
-}
-
 /* Contact Page */
 .contact-main{
 	padding: 1em;
@@ -249,15 +230,7 @@ td{
 		width: 100%;
 		justify-content: center;
 	}
-		
-	.mission,
-	.ages,
-	.meetings{
-		width: 100%;
-		align-content: center;
-		padding-bottom: 1em;
-	}
-	
+			
 	.faith,
 	.five-gs{
 		width: 100%;
@@ -302,13 +275,6 @@ td{
 		text-align: center;
 	}
 	
-		
-	.mission,
-	.ages,
-	.meetings{
-		width: 100%;
-		align-content: center;
-	}
 		
 	.faith,
 	.five-gs{
