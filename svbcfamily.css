@@ -269,7 +269,7 @@ td{
 		text-align: center;
 	}
 	
-		
+	/* About */	
 	.faith,
 	.five-gs{
 		width: 100%;
@@ -318,25 +318,6 @@ td{
 		margin: 0 auto;
 	}
 	
-	.faith{
-		width: 80%;
-	}
-	.five-gs{
-		width: 20%;
-		
-	}
-	
-	.section-tables{
-		width: 100%;
-	}
-	
-	.mission,
-	.ages,
-	.meetings{
-		width: 33.333%;
-		align-content: left;
-	}
-		
 
 	.section-header{
 		height: auto;
@@ -351,7 +332,20 @@ td{
 		width: 20%;
 		justify-content: flex-end;
 	}
+	
+	/* About */	
+	
+	.faith{
+		width: 80%;
+	}
+	.five-gs{
+		width: 20%;
 		
+	}
+	
+	.section-tables{
+		width: 100%;
+	}
 	.purpose,
 	.commandment,
 	.commission{
@@ -380,6 +374,15 @@ td{
 	.contact-tbl{
 		width: 33.3333%;
 	}
+	
+	/* Awana Clubs */
+	.mission,
+	.ages,
+	.meetings{
+		width: 33.333%;
+		align-content: left;
+	}
+
 	
 	
 }
