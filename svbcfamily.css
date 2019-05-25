@@ -186,6 +186,14 @@ td{
 	padding-bottom: 2em;
 }
 
+/* Awana Clubs */
+.awana{
+	padding: 1em;
+	background-color: #EAEDF0;
+	display: flex;
+	flex-wrap: wrap;
+}
+
 /* Contact Page */
 .contact-main{
 	padding: 1em;
@@ -250,6 +258,13 @@ td{
 		margin-left: 25%;
 	}
 	
+	/* Awana Clubs */
+	.mission,
+	.meetings
+	.ages{
+		width: 100%;
+	}
+	
 	
 
 }
@@ -304,6 +319,15 @@ td{
 		width: 33%;
 		padding: 2em;
 		text-align: left;
+		margin-left: 25%;
+	}
+	
+	/* Awana Clubs */
+	.mission,
+	.meetings{
+		width: 50%;
+	}
+	.ages{
 		margin-left: 25%;
 	}
 	
