@@ -82,18 +82,38 @@ input[type=submit]:hover {
 <body>
 	<div class="page">
 
-	<header>
-	<img src="media/logo_200x200.png" width="50" height="50" alt=""/>
-<nav>
-    <a href="index.html">Home</a> |
-	<a href="about.html">About</a> |
-	<a href="awana.html">Awana Clubs</a> |
-	<a href="calendar.html">Calendar</a> |
-	<a href="contact.html">Contact</a> |
-	<a href="events.html">Events</a> |
-	<a href="photos.html">Photos</a>
-</nav>
-	</header>
+<header>
+  <a href="#main-menu"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     <button class="btn"<i class="fa fa-bars"></i>Pages</button>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+    
+  <img src="media/logo_200x200.png" width="50" height="50" alt=""/>
+  
+  <nav id="main-menu" class="main-menu" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       id="main-menu-close"
+       class="menu-close"
+       aria-label="Close main menu">
+      <span <button class="btn"><i class="fa fa-close"></i> Close</button></span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="index.html">HOME</a></li>
+      <li><a href="about.html">ABOUT</a></li>
+      <li><a href="awana.html">AWANAS</a></li>
+      <li><a href="calendar.html">CALENDAR</a></li>
+      <li><a href="contact.html">CONTACT</a></li>
+      <li><a href="events.html">EVENTS</a></li>
+      <li><a href="photos.html">PHOTOS</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"></a>
+</header>
 		
 	<section class="title"><h1>Contact Us</h1></section>
 		
