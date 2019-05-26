@@ -247,18 +247,18 @@ td{
 	
 	/* Contact Page */
 	.addr-physical,
-	.addr-mailing,
+	.addr-mail,
 	.contact-tbl{
 		width: 100%;
 	}
 	
 	.addr-physical,
-	.addr-mailing{
+	.addr-mail{
 		text-align: center;
 	}
 	
 	.contact-tbl{
-		padding-left: 20%;
+		padding-left: 10%;
 	}
 	
 	
