@@ -252,6 +252,15 @@ td{
 		width: 100%;
 	}
 	
+	.addr-physical,
+	.addr-mailing{
+		text-align: center;
+	}
+	
+	.contact-tbl{
+		padding-left: 20%;
+	}
+	
 	
 	/* Awana Clubs */
 	.mission,
