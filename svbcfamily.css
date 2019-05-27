@@ -4,20 +4,14 @@
 	box-sizing: border-box;
 }
 
+
 /* Nav Menu */
 
 /* Button styling */
 .menu-toggle {
-  display: inline-block;
-  padding: .75em 25px;
-  line-height: 1em;
-  font-size: 1.5em;
   color: white;
-}
-
-.menu-toggle:hover,
-.menu-toggle:focus {
-  color: yellow;
+  font-size: 2em;
+  margin-left: auto;
 }
 
 /*
@@ -27,7 +21,7 @@
 .main-menu {
   position: absolute;
   display: none;
-  left: -200px;
+  left: 200px;
   top: 0;
   height: 100%;
 	overflow-y: scroll;
@@ -48,7 +42,7 @@
   min-height: 100%;
   width: 200px;
   background: green;
-}
+  }
 
 .main-menu a {
   display: block;
@@ -66,13 +60,12 @@
 
 .main-menu a:hover,
 .main-menu a:focus {
-  background: yellow;
   text-decoration: underline;
 }
 
 .main-menu .menu-close {
   position: absolute;
-  right: 0;
+  justify-content: center;
   top: 0;
 }
 
@@ -86,7 +79,7 @@
 .main-menu:target,
 .main-menu[aria-expanded="true"] {
   display: block;
-  left: 0;
+  left:0;
   outline: none;
   -moz-box-shadow: 3px 0 12px rgba(0,0,0,.25);
   -webkit-box-shadow: 3px 0 12px rgba(0,0,0,.25);
@@ -164,6 +157,7 @@
   
   .main-menu a {
     color: white;
+    float: right;
     border: 0 !important; /* Remove borders from off-canvas styling */
   }
   
@@ -191,14 +185,14 @@
 }
 
 header{
-	padding: 15px;
-	width: 100%;
-	background-color: green;
-	color: white;
-	height: auto;
 	display: flex;
-	justify-content: center;
+	flex-direction: row;
+	justify-content: space-between;
+	background-color: green;
+	width: 100%;
+	padding: 1em;
 }
+
 blockquote{
 	padding-left: 1em;
 }
