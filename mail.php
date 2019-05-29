@@ -13,7 +13,7 @@ mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
 
 # Notify user email was sent
 echo "Your message was sent to info@svbcfamily.com! \n";
-echo "If you do not get a reply within a couple of days please call the office at 540-868-4020 to ensure receipt."
+echo "If you do not get a reply within a couple of days please call the office at 540-868-4020 to ensure receipt.";
 
 # Notify recipient of new message from contact form
 mail("5407714532@txt.sprint.net", "", "You have a new form submission from svbcfamily.com!", "From: SVBCFAMILY.COM")
