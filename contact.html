@@ -21,7 +21,7 @@
 		padding: 12px 12px 12px 0;
 		display: inline-block;
 	}
-
+	
 	input[type=submit] {
 		background-color: green;
 		color: white;
@@ -31,9 +31,17 @@
 		cursor: pointer;
 		float: right;
 	}
+	
+	input[type=reset]{
+		padding: 12px 20px;
+		border: none;
+		border-radius: 4px;
+		curoser: pointer;
+	}
+
 
 	input[type=submit]:hover {
-		background-color: #45a049;
+		background-color: yellow;
 	}
 
 	.container {
@@ -41,18 +49,27 @@
 		background-color: #f2f2f2;
 		padding: 20px;
 	}
-
-	.col-25 {
+	
+	.label {
 		float: left;
 		width: 25%;
 		margin-top: 6px;
 	}
 
-	.col-75 {
+	.form-group {
 		float: left;
 		width: 75%;
 		margin-top: 6px;
 	}
+	
+	.buttons{
+		display: flex;
+	}
+	
+	.button-submit{
+		margin-left: auto;
+		}
+		
 
 	/* Clear floats after the columns */
 	.row:after {
@@ -60,13 +77,18 @@
 		display: table;
 		clear: both;
 	}
-
+	
+	
 	/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each   other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .col-25, .col-75, input[type=submit] {
-    width: 100%;
-    margin-top: 0;
-  }
+@media screen and (max-width: 600px)   
+	.label, .form-group, input[type=submit]{
+	  width:100%;
+	  margin-top:0;
+  	}
+  	  	
+
+	
+
 }</style>
 
 <title>CONTACT</title>
@@ -124,43 +146,81 @@
 	
 <div class="container">
 	<p>Form submissions will be sent to info@svbcfamily.com. </p>
-  <form action="mail.php" method="post">
-  <div class="row">
-    <div class="col-25">
-      <label for="name">Name</label>
-    </div>
-    <div class="col-75">
-      <input type="text" id="name" name="name" placeholder="Your name..">
-    </div>
-  </div>
-  <div class="row">
-	  <div class="col-25">
-		  <label for="email">Email</label>
+  <form id="contact-form" method="post" action="contact.php" role="form">
+	  <div class="row">
+            <div class="label">
+	            <label for="form_name">Firstname *</label>
+            </div>
+                <div class="form-group">
+                    <input id="form_name" type="text" name="name" placeholder="Please enter your firstname *" required="required" data-error="Firstname is required.">
+                </div>
+                    <div class="help-block with-errors"></div>
+           </div>
+	  
+	  <div class="row">
+            <div class="label">
+	            <label for="form_lastname">Lastname *</label>
+            </div>
+                <div class="form-group">
+                    <input id="form_lastname" type="text" name="surname" placeholder="Please enter your lastname *" required="required" data-error="Lastname is required.">
+                    <div class="help-block with-errors"></div>
+                </div>
+         </div>
+	  
+	  
+	  <div class="row">
+            <div class="label">
+	            <label for="form_email">Email *</label>
+            </div>
+                <div class="form-group">
+                    
+                    <input id="form_email" type="email" name="email" placeholder="Please enter your email *" required="required" data-error="Valid email is required.">
+                    <div class="help-block with-errors"></div>
+                </div>
+            </div>
+	  
+	  <div class="row">
+            <div class="label">
+	            <label for="form_need">Subject *</label>
+            </div>
+                <div class="form-group">
+                    
+                    <select id="form_need" name="need" required="required" data-error="Please specify your need.">
+                        <option value=""></option>
+                        <option value="Request quotation">Request information</option>
+                        <option value="Request order status">Request prayer</option>
+                        <option value="Other">Other</option>
+                    </select>
+                    <div class="help-block with-errors"></div>
+                </div>
+         </div>
+	  
+	  <div class="row">
+            <div class="label">
+	            <label for="form_message">Message *</label>
+                <div class="form-group">
+                    
+                    <textarea id="form_message" name="message" placeholder="Message details *" rows="4" required="required" data-error="Please, leave us a message."></textarea>
+                    <div class="help-block with-errors"></div>
+                </div>
+            </div>
+		  </div>
+	  
+	  <p><strong>*</strong>Required</p>
+	  
+	  <div class="buttons">
+		  <div class="button-clear">
+			  <input type="reset" value="RESET">
+		  </div>
+	  
+		  <div class="button-submit">
+        	  <input type="submit" class="btn btn-success btn-send" value="SUBMIT">
+          </div>
 	  </div>
-	  <div class="col-75">
-		<input type="text" id="email" name="email" placeholder="Your email...">
-	  </div>
-  </div>
-  <div class="row">
-    <div class="col-25">
-      <label for="message">Message</label>
-    </div>
-    <div class="col-75">
-      <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
-    </div>
-  </div>
-  <div class="row">
-	  <div class="col-25">
-		  <input type="reset" value="Clear">
-	  </div>
-	  <div class="col-75">
-		  <input type="submit" value="Submit">
-	  </div>
- 
-  </div>
-  </form>
-</div>
-	
+  
+
+</form>
+	<br>
 
 	<section class="contact-main">
 		
