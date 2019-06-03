@@ -27,7 +27,7 @@
 	
 
 	label {
-		padding: 12px 12px 12px 0;
+		padding 12px 12px 12px 0px
 		display: inline-block;
 	}
 		
@@ -71,17 +71,6 @@
 		margin-top: 6px;
 	}
 	
-
-	.buttons{
-		display: flex;
-		justify-content: space-between;
-		}
-	
-	.button-submit{
-		padding-left: auto;
-		}
-		
-	
 	/* Clear floats after the columns */
 	.row:after {
 		content: "";
@@ -89,16 +78,20 @@
 		clear: both;
 	}
 	
+	.buttons{
+		display: flex;
+		flex-direction: row-reverse;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		}
+		
 	
 	/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each   other instead of next to each other */
 @media screen and (max-width: 600px)   
 	.label, .form-group, input[type=submit]{
 	  width:100%;
 	  margin-top:0;
-  	}
-  	  	
-
-	
+  	}	
 
 }</style>
 
@@ -120,14 +113,13 @@
 <body>
 <div class="page">
 	
-
 <header>
-	<img src="media/logo_200x200.png" width="50" height="50" alt="svbc logo"/>
+	
 
 		<a href="#main-menu" class="menu-toggle">
 			<span class="fa fa-bars"></span>
 		</a>
-
+		<img src="media/logo_200x200.png" width="50" height="50" alt="svbc logo"/>
 	<nav id="main-menu" class="main-menu">
     	<a href="#main-menu-toggle" class="menu-close">
 		<span class="fa fa-window-close"></span>
@@ -151,6 +143,7 @@
      tabindex="-1"></a> 
      
 </header>
+
 
 		
 	<section class="title"><h1>Contact Us</h1></section>
@@ -221,7 +214,9 @@
 	  </div>
 	
 	  <div class="row">
+		  
 	  <div class="buttons">
+		  <div class="button-spacer"></div>
 		  <div class="button-clear">
 			  <input type="reset" value="RESET">
 		  </div>
