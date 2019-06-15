@@ -4,13 +4,13 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'CONTACT@SVBCFAMILY.COM';
+$from = 'contact@svbcfamily.com';
 
 // an email address that will receive the email with the output of the form
 $sendTo = "lewis.dm87@gmail.com, 5407714532@messaging.sprintpcs.com";
 
 // subject of the email
-$subject = '$subject';
+$subject = 'new form submission';
 
 // form field names and their translations.
 // array variable name => Text to appear in the email
