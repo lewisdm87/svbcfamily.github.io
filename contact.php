@@ -17,7 +17,7 @@ $subject = 'new form submission';
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message'); 
 
 // message that will be displayed when everything is OK :)
-$okMessage = 'Message sent. If you do not receive a reply within a couple days please call the church office at 540-868-4020 to confirm receipt.;
+$okMessage = 'Message sent. If you do not receive a reply within a couple days please call the church office at 540-868-4020 to confirm receipt.';
 
 // If something goes wrong, we will display this message.
 $errorMessage = 'There was an error while submitting the form. Please try again later';
