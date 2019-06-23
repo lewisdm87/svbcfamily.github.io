@@ -7,7 +7,7 @@
 $from = 'contact@svbcfamily.com';
 
 // an email address that will receive the email with the output of the form
-$sendTo = "info@svbcfamily.com";
+$sendTo = "info@svbcfamily.com, 5404311109@vtext.com";
 
 // subject of the email
 $subject = 'new form submission';
