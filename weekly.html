@@ -6,7 +6,7 @@
 </style>
 </head>
 <body>
-	<form action="slides.html" method="GET">
+	<form action="slides.php" method="GET">
   <div class="form-group">
     <label for="date">DATE</label>
     <input type="text" id="date" placeholder="Mm dd, yyyy">
@@ -15,6 +15,14 @@
   <div class="form-group">
     <label for="time">TIME</label>
     <input type="text" id="time" placeholder="HH:MM:SS">
+  </div>
+  <div class="form-group">
+	  <label for="out-temp">OUTDOOR-TEMP</label>
+	  <input type="text" id="out-temp" placeholder="Outside Temp">
+  </div>
+  <div class="form-group">
+	  <label for="in-temp">INDOOR-TEMP</label>
+	  <input type="text" id="in-temp" placeholder="Inside Temp">
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
