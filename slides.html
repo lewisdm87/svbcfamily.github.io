@@ -90,6 +90,14 @@ var x = setInterval(function() {
     if (minutes <= 0) {
         document.getElementById("countdown").innerHTML = seconds;
     }
+    
+    // Switch to the timer page when < 60 secons
+    if (distance < 60){
+	    clearInterval(x);
+	    function(){
+		    window.location.href = 'timer.thml?$date&$time';
+	    }
+    }
 
     // If the count down is over, write some text
     if (distance < 0) {
