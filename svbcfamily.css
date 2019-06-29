@@ -386,6 +386,16 @@ td{
 	flex-wrap: wrap;
 }
 
+/* Slides / Timer Page */
+.weather-info{
+	display: flex;
+	width: 100%;
+}
+
+.indoor-temp,.outdoor-temp{
+	width:50%;
+}
+
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
 	*{margin: 2px;}
