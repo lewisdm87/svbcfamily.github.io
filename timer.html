@@ -1,20 +1,63 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<!doctype html>
+<html>
 <head>
-
+<meta charset="UTF-8">
 <title>TIMER</title>
-	
-<meta name="Description" content="This is the countdown timer used just before service begins. Usually activated when about 1 minute remains in service count-down, slides dissapear.">
-	
-<meta name="robots" content="NOINDEX, NOFOLLOW">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>
+	
+	h1{
+		text-align: center;
+		font-size: 50px;
+		line-height: 20px;
+	}
+	h2{
+		font-size: 40px;
+		text-align: center;
+		line-height: 10px;
+	}
+	p{
+		background-color: red;
+		color: white;
+		text-align: center;
+		font-size: 200px;	
+	}
+	
+	.left{
+		float: left;
+	}
+	.right{
+		float: right;
+	}
+	
+</style>
+</head>
+	<body> 
+	
+<div class="page">
+<h1>Shenandoah Valley Baptist Church</h1>
 
+<h2>Service Starts In:</h2>
+
+<p id="countdown">	</p>
+
+
+<footer>
+	
+	<div class="left">We're Moving Forward!</div>
+	<div class="right">Helping people find and become passionate about Jesus</div>
+	
+<div style="clear: both;"></div>
+
+		
+		
+</footer>
+
+	
 <script>
 // Set the date we're counting down to
 // Mm d, yyyy HH:MM:SS
-var countDownDate = new Date("May 12, 2019 10:30:00").getTime();
+var countDownDate = new Date("June 23, 2019 10:30:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -72,60 +115,10 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 
-	
-<style>
 
-p#heading {
-    text-align: center;
-    font-size:55px;
-	line-height: 0px;
-}
-	
-	p#heading2 {
-		text-align: center;
-		font-size: 40px;
-		line-height: 40px;
-	}
-
-p#countdown {
-  text-align: center;
-  font-size: 200px;
-  line-height: 400px;
-}
-	
-	
-.alignleft {
-	float: left;
-	font-size: 28px;
-	line-height: 0px;
-		
-}
-.alignright {
-	float: right;
-	font-size: 28px;
-	line-height: 0px;
-}
-	
-</style>
-
-</head>
-
-<body> 
-	
-<p id="heading">Shenandoah Valley Baptist Church</p>
-
-<p id="heading2">Service Starts In:</p>
-
-<p id="countdown">	</p>
-
-<div id="slogan-box">
-	<p class="alignleft">We're Moving Forward!</p>
-	<p class="alignright">New Year - New Beginning!</p>
 </div>
-	
-<div style="clear: both;"></div>
-
 </body>
+
+
+
 </html>
-
-
