@@ -10,7 +10,7 @@ $from = 'contact@svbcfamily.com';
 $sendTo = "info@svbcfamily.com, 5404311109@vtext.com";
 
 // subject of the email
-$subject = 'new form submission';
+$subject = 'SVBC contact query';
 
 // form field names and their translations.
 // array variable name => Text to appear in the email
