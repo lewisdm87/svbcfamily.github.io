@@ -41,6 +41,8 @@
 
 <p id="countdown">	</p>
 
+Outdoor Temp: <?php echo $_POST["out-temp"]; ?><br>
+Indoor Temp: <?php echo $_POST["in-temp"]; ?><br>
 
 <footer>
 	
@@ -57,6 +59,8 @@
 <script>
 // Set the date we're counting down to
 // Mm d, yyyy HH:MM:SS
+$date = <?php echo $_POST["date"]; ?>
+$time = <?php echo $_POST["time"]; ?>
 var countDownDate = new Date("$date $time").getTime();
 
 // Update the count down every 1 second
