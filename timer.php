@@ -5,40 +5,63 @@
 <title>TIMER</title>
 
 <style>
-	
 	h1{
 		text-align: center;
-		font-size: 50px;
-		line-height: 20px;
+		font-size: 40pt;
 	}
+	
 	h2{
-		font-size: 40px;
 		text-align: center;
-		line-height: 10px;
+		font-size: 20pt;
 	}
-	p{
+	
+	.timer{
 		background-color: red;
 		color: white;
 		text-align: center;
-		font-size: 200px;	
+		font-size: 80pt;
 	}
 	
-	.left{
-		float: left;
+	.temps{
+		display: flex;
+		font-size: 20pt;
 	}
+	
+	.out-temp,.in-temp{
+		width: 50%;
+	}
+	
+	.in-temp{
+		text-align: right;
+	}
+	
+	.footer{
+		display: flex;
+	}
+	
+	.left, .right{
+		width: 50%;
+	}
+	
 	.right{
-		float: right;
+		text-align: right;
 	}
+	
+	
+	
+	
 	
 </style>
 
 <script>
-// Set the date we're counting down to
-// Mm d, yyyy HH:MM:SS
-$date = <?php echo $_POST["date"]; ?>
-$time = <?php echo $_POST["time"]; ?>
+// Set date and time to countdown to
+// date/time vars come from weekly.html
 
-var countDownDate = new Date("$date $time").getTime();
+var date = "<?php echo $_POST["date"]; ?>";
+var time = "<?php echo $_POST["time"]; ?>";
+var dts = date + " " + time;
+
+var countDownDate = new Date(dts).getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -97,33 +120,41 @@ var x = setInterval(function() {
 </script>
 
 </head>
-	<body> 
+<body> 
 	
 <div class="page">
+
+<div class="header">
 <h1>Shenandoah Valley Baptist Church</h1>
 
 <h2>Service Starts In:</h2>
+</div>
 
+<div class="timer">
 <p id="countdown">	</p>
+</div>
 
-Outdoor Temp: <?php echo $_POST["out-temp"]; ?><br>
-Indoor Temp: <?php echo $_POST["in-temp"]; ?><br>
+<div class="temps">
+<div class="out-temp">
+Outdoor Temp: <?php echo $_POST["out-temp"]; ?>
+</div>
 
-<footer>
-	
-	<div class="left">We're Moving Forward!</div>
-	<div class="right">Helping people find and become passionate about Jesus</div>
-	
-<div style="clear: both;"></div>
-
-		
-		
-</footer>
-
-	
-
+<div class="in-temp">
+Indoor Temp: <?php echo $_POST["in-temp"]; ?>
+</div>
 
 </div>
+
+<div class="footer">
+	<div class="left">
+	<p> We're Moving Forward! </p>
+		</div>
+	
+	<div class="right">
+		<p> <i>Helping people find and become passionate about Jesus</i></p>
+	</div>
+</div>		
+		
 </body>
 
 
