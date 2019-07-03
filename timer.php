@@ -37,6 +37,7 @@
 // Mm d, yyyy HH:MM:SS
 $date = <?php echo $_POST["date"]; ?>
 $time = <?php echo $_POST["time"]; ?>
+
 var countDownDate = new Date("$date $time").getTime();
 
 // Update the count down every 1 second
