@@ -5,7 +5,7 @@
 <title>TIMER</title>
 
 <style>
-	h1{
+	h1{ 
 		text-align: center;
 		font-size: 40pt;
 	}
