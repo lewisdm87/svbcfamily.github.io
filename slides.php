@@ -7,18 +7,41 @@
 <style>
 	h1{
 		text-align: center;
+		font-size: 40pt;
 	}
-
+	
+	h2{
+		text-align: center;
+		font-size: 30pt;
+	}
+	
+	.timer{
+		text-align: center;
+		font-size: 20pt;
+	}
+	
+	.slides{
+		text-align: center
+	}
+	
+	.temps{
+		display: flex;
+		padding-left: 1em;
+		padding-right: 1em;
+		font-size: 30pt;
+	}
+	
+	.out-temp,.in-temp{
+		width: 50%;
+	}
+	
+	.in-temp{
+		text-align: right;
+	}
+	
+	
 
 </style>
-
-</head>
-
-<body>
-
-<h1>Shenandoah Valley Baptist Church</h1>
-
-<h2>Service Starts In:</h2>
 
 <script>
 // Set date and time to countdown to
@@ -86,12 +109,26 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 
-<p id="countdown">	</p>
+</head>
+
+<body>
+
+<h1>Shenandoah Valley Baptist Church</h1>
+
+<h2>Service Starts In:</h2>
+
+
+<div class="timer">
+<h1 id="countdown">	</h1>
+</div>
+
 
 <!--update weekly slides-->
-<p id="slides">
-	
+<div class="slides">
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYJkBfev5JljP9mqL6j-ncY5IKoJkjsuiNj_Y94n2YU8WqUIqENOeqAsJGFeWX_owBVomHibRvhtdn/embed?start=false&loop=true&delayms=10000" frameborder="0" width="960" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</div>
 
 <div class="temps">
 <div class="out-temp">
