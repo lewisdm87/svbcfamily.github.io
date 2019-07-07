@@ -7,12 +7,12 @@
 <style>
 	h1{
 		text-align: center;
-		font-size: 40pt;
+		font-size: 30pt;
 	}
 	
 	h2{
 		text-align: center;
-		font-size: 30pt;
+		font-size: 20pt;
 	}
 	
 	.timer{
@@ -28,7 +28,7 @@
 		display: flex;
 		padding-left: 1em;
 		padding-right: 1em;
-		font-size: 30pt;
+		font-size: 20pt;
 	}
 	
 	.out-temp,.in-temp{
@@ -123,9 +123,9 @@ var x = setInterval(function() {
 </div>
 
 
-<!--update weekly slides-->
+<!--update weekly slides    w=950, h=520-->
 <div class="slides">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAwXih13a-kgb2qdrg2VO92BxRo-qt3r636BTmSu-smyg2zMGhsKj2kA3ngJoyBQDDc-O9MnYvgVXR/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAwXih13a-kgb2qdrg2VO92BxRo-qt3r636BTmSu-smyg2zMGhsKj2kA3ngJoyBQDDc-O9MnYvgVXR/embed?start=false&loop=true&delayms=3000" frameborder="0" width="950" height="520" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 <div class="temps">
