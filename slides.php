@@ -43,6 +43,8 @@
 
 </style>
 
+<!-- start script random scm testing -->
+
 <script>
 // Set date and time to countdown to
 // date/time vars come from weekly.html
@@ -117,7 +119,7 @@ var x = setInterval(function() {
 
 <h2>Service Starts In:</h2>
 
-
+<!-- Page starts here! -->
 <div class="timer">
 <h1 id="countdown">	</h1>
 </div>
@@ -125,8 +127,8 @@ var x = setInterval(function() {
 
 <!--update weekly slides    w=950, h=520-->
 <div class="slides">
-	
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxC3jwWLxz82RMzXwlXoAtVELmk9nKL2q4fhAF3b0aBT3OVNvkrkJmjGqTTtHUtGEsO4MeiVG9l05u/embed?start=false&loop=true&delayms=10000" frameborder="0" width="950" height="520" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAiiirBgJ8sYz931DPRgx0HFQT95QkVQlLtzmJTi17rRWPglZBv8aoEjctCkqNJUCMYNy4cl9u8O0J/embed?start=false&loop=true&delayms=10000" frameborder="0" width="950" height="520" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </div>
 
