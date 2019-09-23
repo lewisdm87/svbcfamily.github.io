@@ -43,7 +43,9 @@
 
 </style>
 
-<!-- start script random scm testing -->
+<!-- start script random scm testing 
+	adding more text to poke the scm
+-->
 
 <script>
 // Set date and time to countdown to
