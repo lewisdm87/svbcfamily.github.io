@@ -43,10 +43,6 @@
 
 </style>
 
-<!-- start script random scm testing 
-	adding more text to poke the scm
--->
-
 <script>
 // Set date and time to countdown to
 // date/time vars come from weekly.html
