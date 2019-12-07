@@ -17,7 +17,7 @@
 	
 	.timer{
 		text-align: center;
-		font-size: large;
+		font-size: xx-large;
 	}
 	
 	.slides{
