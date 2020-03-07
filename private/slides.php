@@ -126,7 +126,7 @@ var x = setInterval(function() {
 <!--update weekly slides    w=950, h=520-->
 <div class="slides">
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQopqK5E0QIHDr61u7XfeHfQcCDwTHPpUP00kvjnOUPaeqYTm4X2zKrpCG9_6nXz_4vBHw0HOxgMXVb/embed?start=false&loop=true&delayms=10000" frameborder="0" width="950" height="520" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQkP5ypqGV6Xundp4GXu8Xlg5S4CjLhgsUhBJq6rBwT0j5ub-J7TlOixTkdLW1itoXP-S7JOa1PkhZ-/embed?start=false&loop=true&delayms=10000" frameborder="0" width="950" height="520" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </div>
 
