@@ -26,7 +26,7 @@
 ?>
 </header>
 
-<section>
+
 	<div class="title">
 		<h1>Welcome to Shenandoah Valley Baptist Church:</h1>
 		<h1>Everyone is welcome!</h1>
@@ -111,8 +111,7 @@
 	</div>
 	
 	
-</section>
-		
+
 <footer>
 	<?php
 		include('includes/footer.php');
