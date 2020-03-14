@@ -34,5 +34,9 @@
 		  title="facebook.com/svbc.awana"><img src="media/ico/fb.png" width="25" height="25" alt="fb-awana"/>
 		</a>
 	</div>
+	
+	</div>
+	<p> For health and safety concerns services are canceled for Sunday Mar 15, 2020. Services scheduled to resume Wednesday Mar Mar 18, 2020 at 6:30pm. </p>
+	</div>
 		
 		
