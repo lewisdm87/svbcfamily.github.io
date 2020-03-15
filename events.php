@@ -27,10 +27,6 @@
 ?>
 </header>
 
-<?php
-	include('events/hfava.html');
-?>
-
 <vr>
 
 <?php
