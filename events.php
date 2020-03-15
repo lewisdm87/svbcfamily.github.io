@@ -27,6 +27,10 @@
 ?>
 </header>
 
+<?php
+	include('includes/special.php');
+?>
+	
 <vr>
 
 <?php
