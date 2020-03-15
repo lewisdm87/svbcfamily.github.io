@@ -18,6 +18,18 @@
  Default styles + Mobile first
  Offscreen menu style
 */
+
+/*
+  Special announcments. Run at top and bottom of page.
+*/
+
+.special{
+	background: #ff0000;
+	font-size: larger;
+	font-weight: bold;
+	color: white;
+}
+
 .main-menu {
   position: absolute;
   display: none;
