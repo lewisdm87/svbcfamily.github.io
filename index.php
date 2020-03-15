@@ -1,4 +1,4 @@
-<!DOCTYPE php>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -10,13 +10,14 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	
-<link rel="shortcut icon" href="media/favicon.ico" type="image/x-icon"/>
-<link rel="stylesheet" href="css/svbcfamily.css"/>
+<link rel="shortcut icon" href="../media/favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="../css/svbcfamily.css"/>
 
 <!-- Add Icons for hamburger menu and page close icon -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
 </head>
+
 <body>
 <div class="page">
 
@@ -25,7 +26,9 @@
 	include('includes/header.php');
 ?>
 </header>
-
+<?php
+	include('includes/special.php');
+?>
 
 	<div class="title">
 		<h1>Welcome to Shenandoah Valley Baptist Church:</h1>
