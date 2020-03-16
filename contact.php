@@ -118,9 +118,6 @@
 	include('includes/header.php');
 ?>
 </header>
-<?php
-	include('includes/special.php');
-?>
 		
 	<section class="title"><h1>Contact Us</h1></section>
 	
