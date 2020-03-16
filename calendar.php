@@ -27,10 +27,6 @@
 	include('includes/header.php');
 ?>
 </header>
-<?php
-	include('includes/special.php');
-?>
-
 
 
 
