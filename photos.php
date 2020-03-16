@@ -109,7 +109,7 @@
 
 
 <p>
-	<a href="https://www.facebook.com/svbcfamily/photos" class="nav">More</a> photos avilable on our FaceBook page!</p>
+	<a href="https://www.facebook.com/svbcfamily/photos" class="nav">More</a> photos available on our FaceBook page!</p>
 </div>
 	
 	
