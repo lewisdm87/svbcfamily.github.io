@@ -19,16 +19,7 @@
  Offscreen menu style
 */
 
-/*
-  Special announcments. Run at top and bottom of page.
-*/
 
-.special{
-	background: #ff0000;
-	font-size: larger;
-	font-weight: bold;
-	color: white;
-}
 
 .main-menu {
   position: absolute;
@@ -146,6 +137,7 @@
     display: none;
   }
   
+  
   /* Undo positioning of off-canvas menu */
   .main-menu {
     position: relative;
@@ -196,6 +188,18 @@
 	display: block;
 	background: forestgreen;
 }
+/*
+    Special announcments. Run at bottom of page.
+    */
+
+.special{
+	    width: 100%;
+	    background: #ff0000;
+	    font-size: larger;
+	    font-weight: bold;
+	    color: white;
+    }
+
 
 header{
 	display: flex;
@@ -419,6 +423,8 @@ td{
 		width: 100%;
 		justify-content: center;
 	}
+	
+	
 			
 	.faith,
 	.five-gs{
