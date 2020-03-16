@@ -282,18 +282,6 @@ td{
 	width: 100%;
 }
 
-.endOfPage{
-	width: 100%;
-	justify-content: center;
-	color: white;
-	background-color: darkgreen;
-	padding-top: 3em;
-	padding-bottom: 1em;
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	
-}
 
 .faith,
 .five-gs{
@@ -332,6 +320,7 @@ td{
 }
 
 .services{
+	width: 100%;
 	background-color: green;
 	display: flex;
 	flex-wrap: wrap;
