@@ -20,16 +20,12 @@
 <body>
 <div class="page">
 	
-
 <header>
 <?php
 	include('includes/header.php');
 ?>
 </header>
 
-<?php
-	include('includes/special.php');
-?>
 	
 	<section class="title"><h1>About our Church</h1></section>
 	
