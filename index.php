@@ -26,9 +26,6 @@
 	include('includes/header.php');
 ?>
 </header>
-<?php
-	include('includes/special.php');
-?>
 
 	<div class="title">
 		<h1>Welcome to Shenandoah Valley Baptist Church:</h1>
@@ -120,6 +117,9 @@
 		include('includes/footer.php');
 	?>
 </footer>
+
+
+
 
 	</div>
 </body>
