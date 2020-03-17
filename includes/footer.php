@@ -16,7 +16,8 @@
 		
  	<div class="footer-social">
 		<a href="https://www.facebook.com/svbcfamily" 
-		  title="facebook.com/svbcfamily"><img src="media/ico/fb.png" width="25" height="25" alt="fb-svbc"/>		    </a>
+		  title="facebook.com/svbcfamily"><img src="media/ico/fb.png" width="25" height="25" alt="fb-svbc"/>		    
+		</a>
 			
 		<a href="https://www.instagram.com/svbcfamily" 
 		  title="@svbcfamily"><img src="media/ico/insta.png" width="25" height="25" alt="instagram"/>

@@ -4,16 +4,15 @@
 	<meta name="Description" content="This is the main page of Shenandoah Valley Baptist Church (SVBC). SVBC is a quiet little church at the top of a hill located between Rt. 11 and I-81 just outside Stephens City. We are a non-partisan church with a focus on individual relationship with God.">
 	<meta name="robots" content="index, follow">
 	<meta name="viewport" content="widthÞvice-width, initial-scale=1.0"/>
-	<link rel="shortcut icon" href="../media/favicon.ico" type="image/x-icon"/> <link rel="stylesheet" href="../css/svbcfamily.css"/>
+	<link rel="shortcut icon" href="../media/favicon.ico" type="image/x-icon"/> 
+	<link rel="stylesheet" href="../css/svbcfamily.css"/>
 	<!-- Add Icons for hamburger menu and page close icon --> <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 </head>
 
-<body> 
+	<?php include('includes/header.php'); ?> 
 	
-	<div class="page">
-
-	<header> <?php include('includes/header.php'); ?> </header>
-
+	<?php include('includes/special.php'); ?>
+	
 	<div class="title"> 
 		<h1>Welcome to Shenandoah Valley Baptist Church:</h1> <h1>Everyone is welcome!</h1> <h1><i>Helping people find and become passionate about Jesus</i></h1> 
 	</div>
@@ -55,6 +54,10 @@
 		<figure> <img src="media/people/garret-nichole_sheppard.png" alt="garrett" style="width:100%"> <figcaption>Garrett and wife Nicole</figcaption> </figure> 
 	</div> 
 </div>
+
+<?php
+	include('includes/special.php');
+	?>
 
 <footer> <?php include('includes/footer.php'); ?> </footer>
 
