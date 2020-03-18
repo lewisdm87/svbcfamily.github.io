@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<link rel="stylesheet" href="style.css">
+		<title> FOOTER PAGE</title>
+	</head>
+
+
+<div class="special">
+	<?php
+	include('includes/special.php');
+    ?>
+
+	</div>
+	
 	<div class="final">
 		<h2><span style="text-decoration: overline">CONTACT INFO</span></h2>
 		<br>
@@ -36,11 +54,6 @@
 		</a>
 	</div>
 	
-	<div class="special">
-	<?php
-	include('includes/special.php');
-    ?>
-
-	</div>
+	
 		
 		
