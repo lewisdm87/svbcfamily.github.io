@@ -18,17 +18,7 @@
 
 </head>
 
-<body>
-<div class="page">
-	
-
-<header>
-<?php
-	include('includes/header.php');
-?>
-
-</header>
-	
+	<?php include('includes/header.php'); ?> 	
 	<section class="title"><h1>Awana Clubs</h1></section>
 	
 	
