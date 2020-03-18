@@ -5,14 +5,12 @@
 	<meta name="robots" content="index, follow">
 	<meta name="viewport" content="widthÞvice-width, initial-scale=1.0"/>
 	<link rel="shortcut icon" href="../media/favicon.ico" type="image/x-icon"/> 
-	<link rel="stylesheet" href="../css/svbcfamily.css"/>
+	<link rel="stylesheet" href="style.css"/>
 	<!-- Add Icons for hamburger menu and page close icon --> <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 </head>
 
 	<?php include('includes/header.php'); ?> 
-	
-	<?php include('includes/special.php'); ?>
-	
+		
 	<div class="title"> 
 		<h1>Welcome to Shenandoah Valley Baptist Church:</h1> <h1>Everyone is welcome!</h1> <h1><i>Helping people find and become passionate about Jesus</i></h1> 
 	</div>
@@ -55,9 +53,6 @@
 	</div> 
 </div>
 
-<?php
-	include('includes/special.php');
-	?>
 
 <footer> <?php include('includes/footer.php'); ?> </footer>
 
