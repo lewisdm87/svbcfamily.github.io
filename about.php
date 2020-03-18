@@ -64,8 +64,5 @@
 	    
 	</section>
 
-	<footer> <?php include('includes/footer.php'); ?> 
-	</footer> 
-	</div> 
-</body> 
-</html>
+	<footer> <?php include('includes/footer.php'); ?> </footer> 
+</div> </body> </html>
