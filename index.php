@@ -56,6 +56,4 @@
 
 <footer> <?php include('includes/footer.php'); ?> </footer>
 
-</div>
-</body> 
-</html>
+</div> </body> </html>
