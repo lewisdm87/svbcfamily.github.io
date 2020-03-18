@@ -97,17 +97,13 @@
 
 <title>CONTACT</title>
 	
-<meta name="Description" content="Questions? In need of prayer or other assistance? Drop us a line and we'll be sure to get back to you as soon as we can.">
-
-<meta name="robots" content="index, nofollow">
-	
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	
-<link rel="shortcut icon" href="../media/favicon.ico" type="image/x-icon"/>
-<link rel="stylesheet" href="../css/svbcfamily.css"/>
-
-<!-- Add Icons for hamburger menu and page close icon -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+	<meta name="Description" content="Questions? In need of prayer or other assistance? Drop us a line and we'll be sure to get back to you as soon as we can.">
+	<meta name="robots" content="index, nofollow">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<link rel="shortcut icon" href="../media/favicon.ico" type="image/x-icon"/>
+	<link rel="stylesheet" href="../css/svbcfamily.css"/>
+	<!-- Add Icons for hamburger menu and page close icon -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
 </head>
 
@@ -118,7 +114,7 @@
 <div class="container">
 	<p>Form submissions will be sent to info@svbcfamily.com. </p>
 	<p>* Required
-  <form id="contact-form" method="post" action="php/contact.php" role="form">
+  	<form id="contact-form" method="post" action="php/contact.php" role="form">
 	  <div class="row">
             <div class="label">
 	            <label for="form_name">First Name*</label>
@@ -127,7 +123,7 @@
                     <input id="form_name" type="text" name="name" placeholder="Please enter your firstname *" required="required" data-error="Firstname is required.">
                 </div>
                     <div class="help-block with-errors"></div>
-           </div>
+      </div>
 	  
 	  <div class="row">
             <div class="label">
@@ -137,35 +133,30 @@
                     <input id="form_lastname" type="text" name="surname" placeholder="Please enter your lastname *" required="required" data-error="Lastname is required.">
                     <div class="help-block with-errors"></div>
                 </div>
-         </div>
-	  
+	  </div>
 	  
 	  <div class="row">
             <div class="label">
-	            
 	            <label for="form_email">Email*</label>
             </div>
                 <div class="form-group">
                     <input id="form_email" type="email" name="email" placeholder="Please enter your email *" required="required" data-error="Valid email is required.">
-                    <div class="help-block with-errors"></div>
-                </div>
+            	<div class="help-block with-errors"></div>
             </div>
+      </div>
 	  
 	  <div class="row">
             <div class="label">
 	            <label for="form_need">Subject*</label>
             </div>
                 <div class="form-group">
-                    
                     <select id="form_need" name="need" required="required" data-error="Please specify your need.">
                         <option value=""></option>
                         <option value="Request quotation">Request information</option>
                         <option value="Request order status">Request prayer</option>
                         <option value="Other">Other</option>
                     </select>
-                    
-                    <div class="help-block with-errors"></div>
-                    
+                    <div class="help-block with-errors"></div>   
                 </div>
          </div>
 	  
@@ -174,7 +165,6 @@
 	            <label for="form_message">Message*</label>
             </div>
                 <div class="form-group">
-                    
                     <textarea id="form_message" name="message" placeholder="Message details *" rows="4" cols="90" required="required" data-error="Please, leave us a message."></textarea>
                     <div class="help-block with-errors"></div>
                 </div>
@@ -195,7 +185,6 @@
 	  </div>
 	  </div>
   
-
 </form>
 	<br>
 
@@ -243,7 +232,4 @@
 		include('includes/footer.php');
 	?>
 </footer>
-	</div>
-
-</body>
-</html>
+</div> </body> </html>
