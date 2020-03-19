@@ -192,11 +192,13 @@
 
 .special{
 	    width: 100%;
+	    height: 80px;
 	    background: #ff0000;
 	    font-size: larger;
 	    font-weight: bold;
 	    color: white;
 	    text-align: center;
+	    padding-top: 30px;
     }
 
 
