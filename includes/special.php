@@ -6,7 +6,6 @@
 	<link rel="stylesheet" href="style.css" />
 </head>
 <body>
-	<p>Prayer group and Awana Clubs cancelled for We. 3/18.</p>
-	<p>Updated information will be posted on social @svbcfamily and website as available.</p>
+	<a href="status.php">CLICK HERE TO READ SPECIAL ANNOUNCMENTS</a>
 </body>
 </html>
