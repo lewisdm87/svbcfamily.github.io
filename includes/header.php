@@ -32,8 +32,6 @@
 	</header>
 
 	<div class="special">
-		<?php
-			include('includes/special.php');
-		?>
+		<?php include('includes/special.php'); ?>
 	</div>
 
