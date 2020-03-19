@@ -10,10 +10,6 @@
 
 <?php include('includes/header.php'); ?>
 
-<?php include('events/movie-night.html'); ?>
-
-<vr>
-
 <?php include('events/bikes.html'); ?>
 
 <footer> <?php include('includes/footer.php'); ?> </footer>
