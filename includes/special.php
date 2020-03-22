@@ -6,6 +6,6 @@
 	<link rel="stylesheet" href="style.css" />
 </head>
 <body>
-	<a href="status.php">CLICK HERE TO READ SPECIAL ANNOUNCMENTS</a>
+	<a href="status.php">CLICK HERE TO READ SPECIAL ANNOUNCEMENTS</a>
 </body>
 </html>
