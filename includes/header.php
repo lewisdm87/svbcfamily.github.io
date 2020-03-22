@@ -34,4 +34,8 @@
 	<div class="special">
 		<?php include('includes/special.php'); ?>
 	</div>
+	
+	<div class="blessing">
+		<?php include('includes/blessed.php'); ?>
+	</div>
 
