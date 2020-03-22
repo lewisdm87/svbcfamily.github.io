@@ -32,47 +32,47 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="media/blessing/blessing-01.jpg" alt="title" style="width:100%;">
+        <img src="media/blessing/blessing-01.png" alt="title" style="width:100%;">
       </div>
 
       <div class="item">
-        <img src="media/blessing/blessing-02.jpg" alt="elderly" style="width:100%;">
+        <img src="media/blessing/blessing-02.png" alt="elderly" style="width:100%;">
       </div>
     
       <div class="item">
-        <img src="media/blessing/blessing-03.jpg" alt="neighbors" style="width:100%;">
+        <img src="media/blessing/blessing-03.png" alt="neighbors" style="width:100%;">
       </div>
 		
 		 <div class="item">
-        <img src="media/blessing/blessing-04.jpg" alt="service personnel" style="width:100%;">
+        <img src="media/blessing/blessing-04.png" alt="service personnel" style="width:100%;">
       </div>
 		
 		 <div class="item">
-        <img src="media/blessing/blessing-05.jpg" alt="single moms" style="width:100%;">
+        <img src="media/blessing/blessing-05.png" alt="single moms" style="width:100%;">
       </div>
 		
 		 <div class="item">
-        <img src="media/blessing/blessing-06.jpg" alt="small business" style="width:100%;">
+        <img src="media/blessing/blessing-06.png" alt="small business" style="width:100%;">
       </div>
 		
 		 <div class="item">
-        <img src="media/blessing/blessing-07.jpg" alt="medical pro's" style="width:100%;">
+        <img src="media/blessing/blessing-07.png" alt="medical pro's" style="width:100%;">
       </div>
 		
 		 <div class="item">
-        <img src="media/blessing/blessing-08.jpg" alt="schools" style="width:100%;">
+        <img src="media/blessing/blessing-08.png" alt="schools" style="width:100%;">
       </div>
 		
 		 <div class="item">
-        <img src="media/blessing/blessing-09.jpg" alt="homeless" style="width:100%;">
+        <img src="media/blessing/blessing-09.png" alt="homeless" style="width:100%;">
       </div>
 		
 		 <div class="item">
-        <img src="media/blessing/blessing-10.jpg" alt="red cross" style="width:100%;">
+        <img src="media/blessing/blessing-10.png" alt="red cross" style="width:100%;">
       </div>
 		
 		 <div class="item">
-        <img src="media/blessing/blessing-11.jpg" alt="prayer" style="width:100%;">
+        <img src="media/blessing/blessing-11.png" alt="prayer" style="width:100%;">
       </div>
 		
 	
