@@ -20,6 +20,16 @@
 </div>
 
 <div class="main">
+<h2>April 01, 2020</h2>
+
+<ul>
+	<li>All events scheduled for April have been cancelled. The Church will be open from 10am - 11am for those who wish to come in for a moment of prayer as we have been; please remember to practice social-distancing and groups must be limited to 10 persons max.</li>
+	<li>Easter Sunday (April 12, 2020) we will host a drive-in service. Park on the 81-side of the building and we will let you know what station to dial your car’s radio to for the morning message. Please remember to stay in your car and practice social-distancing. More details to follow as they become available.</li>
+	<li>Sunday morning devotions as well as brief messages through out the week will continue to be posted to <a class="nav" href="https://www.facebook.com/svbcfamily" title="SVBC Facebook Page">facebook.com/svbcfamily</a> and our <a class = "nav" href="https://www.youtube.com/channel/UCVNMH7wzOzSwZ6l-HnoKC7g" title="SVBC  YouTube Channel">YouTube</a> channel.</li>
+	<li>Keep an eye on the church <a class = "nav" href="https://www.svbcfamily.com/calendar.php" title="SVBC Church Calendar">calendar</a> for updates and changes to scheduled events.</li>
+</ul>
+
+<hr>
 	
 <h2>March 19, 2020</h2>
 
