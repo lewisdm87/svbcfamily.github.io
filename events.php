@@ -10,7 +10,12 @@
 
 <?php include('includes/header.php'); ?>
 
-<?php include('events/no-events.html'); ?>
+<h2>Easter Sunday Drive-In Service</h2>
+
+<p> On Easter Sunday (April 12, 2020) SVBC will be hosting a drive-in service.
+	Drive around park on the 81 side of the building and we will let you know what radio channel the 
+	message will be broadcast on. Please remember to practice social distancing. More details to follow.
+</p>
 
 <footer> <?php include('includes/footer.php'); ?> </footer>
 
