@@ -10,7 +10,7 @@
 
 <?php include('includes/header.php'); ?>
 
-<?php include('events/bikes.html'); ?>
+<?php include('events/no-events.html'); ?>
 
 <footer> <?php include('includes/footer.php'); ?> </footer>
 
