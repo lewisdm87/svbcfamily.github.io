@@ -19,14 +19,14 @@
 		<span class="fa fa-window-close"></span>
     	</a>
 		<ul>
-		<li><a href="index.php">HOME</a></li>
-		<li><a href="about.php">ABOUT</a></li>
-		<li><a href="awana.php">AWANAS</a></li>
-		<li><a href="calendar.php">CALENDAR</a></li>
-		<li><a href="contact.php">CONTACT</a></li>
-		<li><a href="donate.php">DONATE</a></li>
-		<li><a href="events.php">EVENTS</a></li>
-		<li><a href="photos.php">PHOTOS</a></li>
+		<li><a href="https://www.svbcfamily.com/index.php">HOME</a></li>
+		<li><a href="https://www.svbcfamily.com/about.php">ABOUT</a></li>
+		<li><a href="https://www.svbcfamily.com/awana.php">AWANAS</a></li>
+		<li><a href="https://www.svbcfamily.com/calendar.php">CALENDAR</a></li>
+		<li><a href="https://www.svbcfamily.com/contact.php">CONTACT</a></li>
+		<li><a href="https://www.svbcfamily.com/donate.php">DONATE</a></li>
+		<li><a href="https://www.svbcfamily.com/events.php">EVENTS</a></li>
+		<li><a href="https://www.svbcfamily.com/photos.php">PHOTOS</a></li>
 		<li><img src="/media/logo_200x200.png" width="50" height="50" alt="svbc logo"/></li>
     	</ul>
   	</nav>
