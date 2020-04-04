@@ -24,6 +24,7 @@
 		<li><a href="awana.php">AWANAS</a></li>
 		<li><a href="calendar.php">CALENDAR</a></li>
 		<li><a href="contact.php">CONTACT</a></li>
+		<li><a href="donate.php">DONATE</a></li>
 		<li><a href="events.php">EVENTS</a></li>
 		<li><a href="photos.php">PHOTOS</a></li>
 		<li><img src="/media/logo_200x200.png" width="50" height="50" alt="svbc logo"/></li>
