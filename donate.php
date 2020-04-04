@@ -1,8 +1,7 @@
 <!DOCTYPE html> <html lang="en"> 
 <head>
 	<title>DONATE</title>
-	<meta name="Description" content="Page was created to allow people to voluntarily contribute to the
-	funding of Shenandoah Valley Baptist Church. All contributions are made through paypal and most 
+	<meta name="Description" content="Page was created to allow people to voluntarily contribute to 		Shenandoah Valley Baptist Church. All contributions are made through paypal and most 
 	major credit cards are accepted.">
 	<meta name="robots" content="index, follow">
 	<meta name="viewport" content="widthÞvice-width, initial-scale=1.0"/>
