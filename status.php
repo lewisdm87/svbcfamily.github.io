@@ -20,6 +20,21 @@
 </div>
 
 <div class="main">
+	
+<h2>April 04, 2020</h2>
+
+<ul>
+	<li>We now have a church PayPal account! Visit <a class="nav" href="https://www.svbcfamily.com/donate.php" title="svbcfamily.com/donate.php">svbcfamily.com/donate.php</a> to donate via PayPal!</li>
+	<li>Church doors will open April 05, 2020 from 10am - 11am for anyone who wishes to come and pray. There will not be a sermon / morning message.f</li>
+	<li>Remember to keep an eye on the website and our social media as well as your email inbox for updated information as it becomes available.</li>
+	<li>If you are not receiving regular email from Connie send her an email at <a class="nav" href="mailto:%20csales@svbcfamily.com">csales@svbcfamily.com</a> to be added to the mailing list.</li>
+	<li>You can reach the church office at <a class="nav" href="tel:%201+540-868-4020">540-868-4020</a> or <a class="nav" href="mailto:%20csales@svbcfamily.com">csales@svbcfamily.com</a> for any prayer requests or needs at this time.</li>
+	<li>Easter Sunday will be a drive-in service. Please fill the 81-side parking lot first as this is where Pastor Cherry will be speaking from. We will let you know the radio station to dial into when you arrive.</li>
+</ul>
+
+
+<hr>
+
 <h2>April 01, 2020</h2>
 
 <ul>
