@@ -17,6 +17,9 @@
 
 	<div class="main"> 
 		<p>We are a church in the heart of the Shenandoah Valley that is focused on the whole family. We have a place for anyone who wishes to join us in worshiping the Lord. We know you'll find a warm and welcoming home with our church family.</p>
+		
+		<!-- *REMOVE NEXT PARAGRAPH AFTER PANDEMIC RESTRICTIONS LIFTED* -->
+		<p>We will be offering drive-in fm broadcast services during the travel restrictions and social distancing brought on by the corona pandemic. Feel free to join us at 10:30 Sunday Mornings for a drive-in service broadcast to your car's radio.</p>
 
 		<p>You can watch the morning service live on our <a class="nav" href="https://www.facebook.com/svbcfamily">FaceBook</a> page. Be sure to follow us on facebook for more information on upcoming events and daily scripture.</p>
 
@@ -26,6 +29,10 @@
 	 </div>
 
 	<div class="services">
+		<p>The corona pandemic has services put on a temporary hold, but while social distancing and travel restrictions are in effect we are offering Drive-In Sunday Services at 10:30am. Service is broadcast live to your car radio!  </p>
+		<br>
+		
+		<!--
 		 <table class="tbl-sunday"> <caption>Sunday Services</caption> 
 			<tr> <td>9:00am</td> <td>-</td> <td>10:00am</td> <td>Sunday School</td> </tr> 
 			<tr> <td>10:00am</td> <td>-</td> <td>10:20am</td> <td>Fellowship in the Gym</td> </tr>
@@ -36,7 +43,8 @@
 			<tr> <td>6:30pm</td> <td>-</td> <td>7:30pm</td> <td>Devotion and Intentional Prayer</td> </tr> 
 			<tr> <td>6:30pm</td> <td>-</td> <td>8:30pm</td> <td>Awana Clubs*</td> </tr> 
 			<tr> <td colspan="4">*Meets September - May</td> </tr>
-		 </table> 
+		 </table>
+		 --> 
 	</div>
 
 	<div class="main">
