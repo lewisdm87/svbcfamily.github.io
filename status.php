@@ -21,6 +21,19 @@
 
 <div class="main">
 	
+<h2>April 14, 2020</h2>
+
+<p>Due to the successful turnout of last week’s Radio Drive-In Service we will continue conducting service via drive-in radio broadcast while travel and gathering restrictions remain in-effect / until further notice.</p>
+
+<p>The service will still be recorded and made available to our <a class="nav" href="https://www.youtube.com/channel/UCVNMH7wzOzSwZ6l-HnoKC7g" title="SVBC YouTube Channel">YouTube</a> Channel as well as our <a class="nav" href="https://www.facebook.com/svbcfamily" title="SVBC Facebook Page">Facebook Page</a> for those who are unable to attend to the drive-in service.</p>
+
+<p>When you attend the drive-in service please remember to stay in your vehicles and follow direction of the parking attendants so that we adhere to local governmental mandates regarding social distancing. If you wish to park near someone specific, meet them at McDonalds or another nearby lot and pull into the church lot at the same time.</p>
+
+
+
+	
+<hr>
+	
 <h2>April 04, 2020</h2>
 
 <ul>
