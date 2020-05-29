@@ -245,8 +245,11 @@ hr {
 	height: 2px;
 }
 
-li{
+ul{
 	padding-left: 2.75em;
+	padding-bottom: 2.75em;
+	list-style-position: outside;
+	list-style-type: disc;
 }
 
 p{
