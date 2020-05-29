@@ -30,7 +30,7 @@
 
 <hr>
 	
-<h2>May 23, 2020</h2><br>
+<h2>May 23, 2020</h2>
 
 <p>Welcome back! Beginning May 24 the sanctuary will be open for the 10:30AM service ONLY. Please adhere to the following guidelines:</p>
 
