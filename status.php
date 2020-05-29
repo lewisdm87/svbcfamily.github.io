@@ -21,6 +21,47 @@
 
 <div class="main">
 	
+<h2>May 29, 2020</h2>
+
+<p>With the updated guidelines and mandates from VA Governor, all members and guests will be required to wear a face mask while inside the SVBC buildings. While we do have a limited supply of masks available to provide; we encourage you to bring/wear your favorite from home. </p>
+
+<p>We will continue broadcasting the service on 87.9 FM for those who would prefer to remain in their vehicles during the service.</p>
+
+
+<hr>
+	
+<h2>May 23, 2020</h2><br>
+
+<p>Welcome back! Beginning May 24 the sanctuary will be open for the 10:30AM service ONLY. Please adhere to the following guidelines:</p>
+
+<ul>
+	<li>Those from the same household may sit together in the same pew; any others in the same pew must observe the six foot guideline.</li><br>
+	
+	<li>Every other pew will be empty in order to observe best “social distancing” practice.</li><br>
+	
+	<li>Ushers will assist and guide attendees in seating; you simply may not be able to sit in the pew you have grown used to. Your cooperation is appreciated.</li><br>
+	
+	<li>All parking spaces will be available at both entrances for your use.</li><br>
+	
+	<li>If you have a mask and so choose to wear it we certainly encourage you to do so. We will have some gloves and mask available on a limited basis, this due to items being hard to come by.</li><br>
+	
+	<li>In lieu of passing the offering plates a “drop box” will be available at each entry for your convenience. Thank you for your faithful stewardship during this far from normal time.</li><br>
+	
+	<li>We will do our best to keep everyone “in the loop” with regard to any changes and/or adjustments. Please be patient in and during this process.</li><br>
+	
+</ul>
+
+<p>We plan on resuming the prayer meeting on Wednesday nights at 6:30pm starting Wed June 3rd. The meeting will be held in the SW corner section of the main auditorium as opposed to the Pastors office in order for social distancing to be observed.</p>
+
+<p>We plan on resuming Sunday school gatherings at 9AM beginning Sun, June 7th.</p>
+
+<p>In the mean time we will continue broadcasting the morning service on 87.9fm and live on Facebook at facebook.com/svbcfamily.</p>
+
+<p>Tithes and offerings can be dropped into the drop boxes at either entrance or you can donate online at svbcfamily.com/donate.php and clicking on the PayPal button. We appreciate your faithful stewardship during this process of change.</p>
+
+
+<hr>
+
 <h2>April 14, 2020</h2>
 
 <p>Due to the successful turnout of last week’s Radio Drive-In Service we will continue conducting service via drive-in radio broadcast while travel and gathering restrictions remain in-effect / until further notice.</p>
@@ -28,8 +69,6 @@
 <p>The service will still be recorded and made available to our <a class="nav" href="https://www.youtube.com/channel/UCVNMH7wzOzSwZ6l-HnoKC7g" title="SVBC YouTube Channel">YouTube</a> Channel as well as our <a class="nav" href="https://www.facebook.com/svbcfamily" title="SVBC Facebook Page">Facebook Page</a> for those who are unable to attend to the drive-in service.</p>
 
 <p>When you attend the drive-in service please remember to stay in your vehicles and follow direction of the parking attendants so that we adhere to local governmental mandates regarding social distancing. If you wish to park near someone specific, meet them at McDonalds or another nearby lot and pull into the church lot at the same time.</p>
-
-
 
 	
 <hr>
@@ -61,7 +100,7 @@
 	
 <h2>March 19, 2020</h2>
 
-<p>In accordance with governmental guidlines the leadership staff at SVBC has decided on
+<p>In accordance with governmental guidelines the leadership staff at SVBC has decided on
 the following:</p>
 
 <ul>
@@ -69,6 +108,7 @@ the following:</p>
 <li>Sunday and Wednesday night services will not be held.</li>
 <li>The leadership team will be meeting again in April to determine operating status.</li>
 </ul>
+
 
 <h3>Sunday Mornings</h3>
 
@@ -82,7 +122,7 @@ it&#8217;s being safe.</p>
 
 <p>We are exploring options for Pastor Cherry to host online devotionals Sunday mornings and
 Wednesday evenings. They will be short videos on Facebook Live and recordings will be
-transfered to our YouTube channel for your convenience. Please be sure to follow our social
+transferred to our YouTube channel for your convenience. Please be sure to follow our social
 media channels and this page for updated information as it becomes available.</p>
 
 <h3>Questions - Comments - Concerns</h3>
