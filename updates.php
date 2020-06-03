@@ -19,6 +19,60 @@
 </div>
 
 <div>
+<h2>June 03, 2020</h2>
+
+<p>Subject: Pastor’s Devotional</p>
+
+<p>GOD - As He longs for you to see Him… ….The Justice of God</p>
+
+<p>Amid all of the violence and destruction in our world today is “Where is God in all of this” a fair question? Some would look at the current riots taking place in major cities where personal private property is being destroyed by thieves and thugs and ask “where is God?” Another may look at pastor and his wife who has served the Lord faithfully for year only to have her succumb to cancer at an early age; “why didn’t God answer my prayer” one may ask? Even the writer of Ecclesiastes wondered this question when he wrote: </p>
+
+<blockquote>
+<p>“I have seen everything during my lifetime of futility; there is a righteous man who perishes in his righteousness and there is a wicked man who prolongs his life in his wickedness” - ECC 7:15 (NAS)</p>
+</blockquote>
+
+<p>By His nature God is fair and righteous and just. In a fallen world, we don’t always get to experience God’s justice. God has repeatedly revealed His justice in:</p>
+
+<ul>
+	<li>The natural order
+
+		<ul>
+			<li>The human heart</li>
+			<li>the Bible</li>
+			<li>The Cross</li>
+			<li>Divine retribution</li>
+		</ul></li>
+</ul>
+
+<blockquote>
+<p>“For Christ also died for sins once for all, the just for the unjust, so that He might bring us to God. Having been put to death in the flesh, but made alive in the Spirit” - 1 Pet 3:18 (NAS)</p>
+</blockquote>
+
+<p>I. How do we respond to God’s justice?</p>
+
+<p>A. Choose to embrace Jesus</p>
+
+<p>B. Refuse to seek vengeance</p>
+
+<p>C. Take comfort in God’s justice</p>
+
+<p>D. Meditate on the effects of God’s final judgement</p>
+
+<p>READ: Ps 73: 1-17. What insights can you gain from this passage about justice?</p>
+
+<blockquote>
+<p>“Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everyone. If it is possible, as far as it depends on you, live at peace with everyone. Do not take revenge, my friends, but leave room for God’s wrath, for it is written: “it is mine to avenge; I will repay,” says the Lord. On the contrary: “If your enemy is hungry, feed him; if he is thirsty, give him something to drink. In doing this, you will heap burning coals on his head.” Do not be overcome by evil, but overcome evil with good.” - Rom 12:17-21</p>
+</blockquote>
+
+<p>Happy Studying</p>
+
+<p>Content taken from God, as He long for you to see Him by Chip Ingram </p>
+
+
+<hr>
+</div>
+
+<div>
 	
 <h2>May 30, 2020</h2>
 
