@@ -19,6 +19,18 @@
 </div>
 
 <div>
+<h2>June 08, 2020</h2>
+
+<p>Subject: prayer request</p>
+
+<p>Peggy Brewer will have a biopsy done tomorrow 6/9/2020 at Noon. She appreciates your prayers that this will go well and everything will be good.</p>
+
+<p>Lord please give Peggy peace about this.</p>
+
+<hr>
+</div>
+
+<div>
 <h2>June 05, 2020</h2>
 
 <p>Subject: Sunday School start up</p>
@@ -96,94 +108,6 @@
 <hr>
 </div>
 
-<div>
-	
-<h2>May 30, 2020</h2>
-
-<p>Subject: Update</p>
-
-<p>Mr. Sandford made it through the night!! They are warming him up which will take all day until 7: 30 PM. Please keep praying!!</p>
-
-
-<hr>
-</div>
-<div>
-
-<h2>May 29, 2020</h2>
-
-<p>Subject: Urgent prayer need</p>
-
-<p>Please pray for Mr. Sanford who is battling the Covid virus. He just went into cardiac arrest! They were able to revive him but its not good. His son Sanford Jr. was able to suit up and go in to see him and pray for him. He did recognize his son. So please pray !</p>
-
-<p>Also pray for Margaret Sandretzky during your daily prayers. She is also battling a health condition. Having her ups and downs lately with more downs. She ask for your prayers.</p>
-
-<p> Prayers please</p>
-
-
-<hr>
-</div>
-
-<div>
-
-<h2>May 28, 2020</h2>
-
-<p>Subject: Pastor’s Devotional</p>
-
-<p>THE WISDOM OF GOD</p>
-
-<p>“Consider the work of God, for who is able to straighten what he has bent?” - Eccl 7:13</p>
-
-<p>The picture is one of bare hands trying to straighten curved steel. What sweat and tears have you lost on trying to straighten out your circumstances? What temples have you rubbed raw trying to figure out how God is going to use this dreadful experience? Surely God can’t know about this situation. Doesn’t He see how crooked my life is? Why doesn’t He straighten it out?</p>
-
-<p>This week we will learn why living in “to be continued” land is not only a necessity, but actually the best thing for us. We will be introduced to another of God’s attributes: His wisdom. And that’s not about God’s IQ. When stuck in your next unresolved mystery remember these principles on how we can learn to rest and trust in the wisdom of God.</p>
-
-<p>I. The wisdom of God: God brings about the best possible ends, by the best possible means, for the most possible people, for the longest possible time.</p>
-
-<ul>
-	<li>What is the most difficult issue in your life?
-
-		<ul>
-			<li>What big problem do you want God to solve?</li>
-		</ul></li>
-</ul>
-
-<p>II. How has God revealed His wisdom?</p>
-
-<ul>
-	<li>Creation
-
-		<ul>
-			<li>Providence</li>
-			<li>Redemption</li>
-			<li>Jesus</li>
-		</ul></li>
-</ul>
-
-<p>“Be very careful then, how you live - not as unwise but as wise, making the most of every opportunity, because the days are evil. Therefore, do not break foolish, but understand what the Lord’s will is.” - Eph 5:15-17</p>
-
-<p>III. Ways to live a wise life:</p>
-
-<ul>
-	<li>Wise living begins with reverence for God. Reverence = in awe of…
-
-		<ul>
-			<li>Wise living grows by receiving His word - Listening &amp; applying </li>
-			<li>Wise living requires that we ask for it specifically</li>
-			<li>Wise living involves learning to trust God completely</li>
-		</ul></li>
-</ul>
-
-<p>Questions:</p>
-
-<ol>
-	<li>What is the toughest issue you’re facing in your life right now?</li>
-	<li>What did you learn about God’s wisdom that gave you hope or comfort?</li>
-</ol>
-
-<p>Happy Studying</p>
-
-
-<hr></div>
 
 
 
