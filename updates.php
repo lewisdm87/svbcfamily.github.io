@@ -19,6 +19,21 @@
 </div>
 
 <div>
+<h2>June 10, 2020</h2>
+
+<p>Subject: Update and new request</p>
+
+<p>Peggy Brewer had a biopsy yesterday and will know the results Friday. Please keep her in your prayers for good results on Friday! She appreciates your prayers,</p>
+
+<p>Jerry DeHaven has throat cancer. His son Chris is working on putting a new roof on our school building. He said he would appreciate the church family’s prayers for his Father.</p>
+
+<p>Blessings</p>
+
+
+<hr>
+</div>
+
+<div>
 <h2>June 08, 2020</h2>
 
 <p>Subject: prayer request</p>
