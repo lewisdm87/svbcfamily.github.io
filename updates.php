@@ -60,7 +60,7 @@
 
 <p>Well, I can&#39;t help you with your taxes, but I do have a bit of advice that I think will make death less frightening and greatly increase your chances of living &quot;happily ever after.&quot;</p>
 
-<p>For decades, our nation has been focused on personal pleasure. The message drummed into everyone by pop culture is &quot;If it feels good, do it&quot; lt&#39;s fostered a culture of self-centeredness that led to Baby Boomers being nicknamed &quot;The Me Generation&quot; Today&#39;s young people have been dubbed &#39;iGen&#39; because many are so fixated on self and selfies that even their gadgets&#39; names all start with &#39;Mc:el:6E Advertising bombards us with the message that life is all about me and all about now. Such messages of immediate self-gratification may sell products and services, but they cause us to sell our souls if we follow this philosophy to its logical conclusion.</p>
+<p>For decades, our nation has been focused on personal pleasure. The message drummed into everyone by pop culture is &quot;If it feels good, do it.” lt&#39;s fostered a culture of self-centeredness that led to Baby Boomers being nicknamed &quot;The Me Generation&quot; Today&#39;s young people have been dubbed &#39;iGen&#39; because many are so fixated on self and selfies that even their gadgets&#39; names all start with ‘I.’ Advertising bombards us with the message that life is all about me and all about now. Such messages of immediate self-gratification may sell products and services, but they cause us to sell our souls if we follow this philosophy to its logical conclusion.</p>
 
 <p>At some point in life, we all experience events that shake up our routine, much like the agitator in a washing machine shakes loose the grime in our clothes. We may not want or enjoy such experiences, but they are necessary to force us to focus on the frailty of life and the certainty of death. They also force us to begin asking what really matters and why.</p>
 
@@ -127,7 +127,6 @@
 <p>BIBLE VERSE OF THE DAY (KJV)</p>
 
 <p>&quot;With all lowliness and meekness, with long-suffering, forbearing one another in love.&quot; Ephesians 4:2A (KJV)</p>
-
 
 
 <hr>
