@@ -15,7 +15,32 @@
 
 <div class="title">
 <h1>Email Updates</h1>
+</div>
 
+<div>
+<h2>July 01, 2020</h2>
+
+<p>Subject: Update on Peggy Brewer</p>
+
+<p>Peggy’s surgery went well. She will probably come home tomorrow. She still needs your prayers for her recovery. I know she appreciates all your prayers. </p>
+
+<blockquote>
+<p>729 Round Hill Road, Winchester, VA 22602</p>
+</blockquote>
+
+
+<hr>
+</div>
+
+<div>
+<h2>July 01, 2020</h2>
+
+<p>Subject: Peggy Brewer</p>
+
+<p>Please remember to pray for Peggy Brewer this morning as she has her surgery.</p>
+
+
+<hr>
 </div>
 
 <div>
