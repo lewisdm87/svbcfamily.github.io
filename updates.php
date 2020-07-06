@@ -18,6 +18,20 @@
 </div>
 
 <div>
+<h2>July 06, 2020</h2>
+
+<p>Subject: Peggy Brewer update</p>
+
+<p>Peggy called yesterday and said she is doing just fine. She has no pain which she refused the pain pills from the doctor because she said I don&#39;t have any pain! </p>
+
+<p>She thanks her SVBC family for all the prayers, lovely cards and phone calls. She said it was your prayers and God that brought her through her surgery and now her recovery. She said I will be back to church in a couple of weeks that she would come this Sunday but her family said that she needs to stay away a couple of weeks because of her immune system with this virus. She so loves getting cards. Even if you have already sent her one maybe send another one telling her you are so happy and thankful for her.</p>
+
+<p>Be Blessed</p>
+
+<hr>
+</div>
+
+<div>
 <h2>July 02, 2020</h2>
 
 <p>Subject: Pastor’s Devotional</p>
