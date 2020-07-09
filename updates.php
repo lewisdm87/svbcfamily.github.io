@@ -18,6 +18,56 @@
 </div>
 
 <div>
+<h2>July 09, 2020</h2>
+
+<p>Subject: Pastor’s Devotional</p>
+
+<p>Worn-Out Knees — Living a yielded life </p>
+
+<p>John 14:12-14</p>
+
+<p>Some might think it arrogant when they hear a Christian talk about doing greater works than Jesus. But it was Jesus himself who said His followers would do such works — not greater physical miracles, but spiritual miracles that would have their basis in a life of prayer. The key to Jesus&#39; power on earth was His relationship to the Father in heaven.</p>
+
+<p>I. The EXPECTATION of greater works vs 12a</p>
+
+<p>• The expectation of &quot;greater works&quot; has caused no small amount of confusion and controversy in the body of Christ.</p>
+
+<p>• Jesus said what we would do would result in an even greater impact than what He had done.</p>
+
+<p>II. The EXPLANATION of greater works vs 12b</p>
+
+<p>• Jesus tied the &quot;greater works&quot; to His return to heaven</p>
+
+<p>• Jesus returning to the Father and the Spirit&#39;s coming from the Father—the followers of Jesus would be able to ask of Jesus His help in carrying out His will, continuing to do His works — even greater!</p>
+
+<p>III. The EXPRESSION of greater works vs 12b</p>
+
+<p>• Approximately forty days after Jesus told the disciples about the &quot;greater works&quot;, He returned to heaven then ten days later, on Pentecost, the Holy Spirit was poured out on the disciples resulting in 3,000 coming to Christ! Never in Jesus&#39; ministry did 3,000 people believe in Him in a single day. The &quot;greater works&quot; had begun!</p>
+
+<p>• The REACH of our ministry is greater</p>
+
+<p>• The RESULT of our ministry is greater</p>
+
+<p>IV. The EXECUTION of greater works vs 13-14</p>
+
+<p>• The way we execute these &quot;greater works&quot; is through prayer: &quot;Whatever you ask in My name, that I will do, that the Father may be glorified in the Son. If you ask anything in My name, I will do it&quot;</p>
+
+<p>• It is better to have Jesus within us through the Spirit than beside us.</p>
+
+<p>Ques: vs 10, How could obeying the Father&#39;s will and doing His work lead to conflict in the</p>
+
+<p>world? Which is more important — avoiding conflict or doing God&#39;s will?</p>
+
+<p>Ques: What good news about the Spirit&#39;s ministry is found in John 3:34?</p>
+
+<p>Happy Studying</p>
+
+
+
+<hr>
+</div>
+
+<div>
 <h2>July 06, 2020</h2>
 
 <p>Subject: Peggy Brewer update</p>
