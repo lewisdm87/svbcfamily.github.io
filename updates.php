@@ -18,7 +18,7 @@
 </div>
 
 <div>
-<h2>July 12, 2020</h2>
+<h2>July 11, 2020</h2>
 
 <p>Subject - prayer needs and security meeting</p>
 
