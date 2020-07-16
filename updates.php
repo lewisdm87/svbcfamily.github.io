@@ -18,6 +18,13 @@
 </div>
 
 <div>
+<h2>July 22, 2020</h2>
+<p>Subject - Pastor's Devotional</p>
+<iframe src="private/updates/devotion_20200716.pdf" width="98%" height="700"></iframe>
+<hr>
+</div>
+
+<div>
 <h2>July 13, 2020</h2>
 
 <p>3 of 3 Emails today. &nbsp;Please pardon the number but trying to keep them short. &nbsp;One each on curriculum, training dates, and Zoom call.</p>
