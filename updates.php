@@ -18,6 +18,11 @@
 </div>
 
 <div>
+<iframe src="private/updates/devotion_20200723.pdf" width="96%" height="700"></iframe>
+<hr>
+</div>
+
+<div>
 <h2>July 21, 2020</h2>
 
 <p>Subject - Updates</p>
