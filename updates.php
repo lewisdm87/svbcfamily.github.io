@@ -18,6 +18,8 @@
 </div>
 
 <div>
+<h2>July 23, 2020</h2>
+<p>Subject - Pastor's Devotional</p>
 <iframe src="private/updates/devotion_20200723.pdf" width="96%" height="700"></iframe>
 <hr>
 </div>
