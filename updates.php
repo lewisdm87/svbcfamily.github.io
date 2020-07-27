@@ -18,6 +18,39 @@
 </div>
 
 <div>
+<h2>July 27, 2020</h2>
+
+<p>Subject - Funeral Arrangements</p>
+
+<p>Funeral Arrangements for Pastor Farel</p>
+
+<blockquote>
+<p>Colonial Funeral Home</p>
+
+<p>210 Edward Ferry Rd NE</p>
+
+<p>Leesburg, VA 20176</p>
+</blockquote>
+
+<p>Due to the Coronavirus a private funeral will be held at Colonial Funeral Home on Wednesday at 11am. Family viewing 10-11am Mike Grooms Officiating.</p>
+
+<p>Burial will be at Lamps United Methodist Church in Mount Williams</p>
+
+<p>Memorial Contributions may be made to:</p>
+
+<blockquote>
+<p>The Association of Baptist for World Evangelism</p>
+
+<p>ABWE Foundation LLC</p>
+
+<p>PO Box 8585</p>
+
+<p>Harrisburg, PA 17105</p>
+</blockquote>
+<hr>
+</div>
+
+<div>
 <h2>July 23, 2020</h2>
 <p>Subject - Pastor's Devotional</p>
 <iframe src="private/updates/devotion_20200723.pdf" width="96%" height="700"></iframe>
