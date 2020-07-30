@@ -18,6 +18,18 @@
 </div>
 
 <div>
+<h2>July 29, 2020</h2>
+
+<p>Subject - Love Offering</p>
+
+<p>This Sunday August 2, 2020 we will have an Love Offering Box in the Foyer for donations for Betsy Farel.</p>
+
+<p>Blessings</p>
+
+<hr>
+</div>
+
+<div>
 <h2>July 27, 2020</h2>
 
 <p>Subject - Funeral Arrangements</p>
