@@ -7,14 +7,7 @@
 		<link rel="stylesheet" href="style.css">
 		<title> FOOTER PAGE</title>
 	</head>
-
-
-<div class="special">
-	<?php
-	include('includes/special.php');
-    ?>
-
-	</div>
+	
 	
 	<div class="final">
 		<h2><span style="text-decoration: overline">CONTACT INFO</span></h2>
