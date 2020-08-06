@@ -18,6 +18,45 @@
 </div>
 
 <div>
+<h2>August 06, 2020</h2>
+
+<p>Subject - Pastor's Devotional</p>
+
+<iframe src="private/updates/devotional_20200806.pdf" width="96%" height="700"></iframe>
+<hr>
+
+</div>
+
+
+<div>
+<h2>August 06, 2020</h2>
+
+<p>Subject - Update on Ernie Wiant</p>
+
+<p>Ernie did well with his surgery. He lost a lot of blood during the surgery because of the injury. They have him in ICU because of low blood pressure. Gloria said he had a great doctor and nurses. </p>
+
+<p>Gloria is having a hard time but is trusting the Lord. Much prayer is needed.</p>
+
+<p>Can send cards to PO Box 268, Stephens City, VA 22655</p>
+
+<p>Blessings</p>
+<hr>
+</div>
+
+<div>
+<h2>August 05, 2020</h2>
+
+<p>Subject - Ernie Wiant</p>
+
+<p>Ernie fell yesterday eve and broke his hip. He is in WMC and suppose to have surgery today. Please stay in prayer for him today !! Also remember Gloria in prayer as well. Will update when I hear something.</p>
+
+<p>Prayers</p>
+
+
+<hr>
+</div>
+
+<div>
 <h2>July 30, 2020</h2>
 
 <p>Subject - Pastor's Devotional</p>
@@ -72,31 +111,7 @@
 <hr>
 </div>
 
-<div>
-<h2>July 23, 2020</h2>
-<p>Subject - Pastor's Devotional</p>
-<iframe src="private/updates/devotion_20200723.pdf" width="96%" height="700"></iframe>
-<hr>
-</div>
 
-<div>
-<h2>July 21, 2020</h2>
-
-<p>Subject - Updates</p>
-
-<p>Margaret Sandretzkys surgery went well. She was able to come home last evening. Prayers for a complete recovery. They both appreciates all your prayers. 132 Stonebrook Rd. Winchester,Va 22602</p>
-
-<p>Peggy Brewer is doing well. She enjoys all the cards and phone calls. 729 Round Hill Rd. Winchester, Va 22602</p>
-
-<p>Pastor Farel is not doing well. The family appreciates your prayers. 366 Gough Rd. Winchester, Va 22602</p>
-
-<p>Dallas Hartley is in WMC with a serious infection. He has not been well for some time. Carolyn is also not doing well. Prayers are appreciated. 4374 Martinsburg Pk. Clearbrook, Va 22624 ( Connie&#39;s sister &amp; brother-in-law)</p>
-
-<p>Prayers for all please and send those cards, they do make a difference.</p>
-
-
-<hr>
-</div>
 
 
 <?php include('includes/footer.php') ?>
