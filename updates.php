@@ -18,6 +18,96 @@
 </div>
 
 <div>
+<h2>August 13, 2020</h2>
+
+<p>Subject - Update</p>
+
+<p>Ernie Wiant came home yesterday evening. Please be in prayer for his recovery and for Gloria with being the caregiver and also taking care of running the business. </p>
+
+<p>Remember Helen&#39;s surgery tomorrow. Don&#39;t have a time yet , just pray.</p>
+
+<hr>
+</div>
+
+<div>
+<h2>August 13, 2020</h2>
+
+<p>Subject - Pastor's Devotional</p>
+
+<iframe src="private/updates/devotion_20200813.pdf" width="96%" height="700"></iframe>
+<hr>
+
+</div>
+
+
+<div>
+<h2>August 12, 2020</h2>
+
+<p>Subject - Update</p>
+
+<p>Helen Weir&#39;s surgery has been moved to this Friday 8/14/2020</p>
+
+<p>She is on a blood thinner so they have to delay the surgery until Friday.</p>
+
+<p>Please continue to pray for her and her family.</p>
+
+
+<hr>
+</div>
+
+<div>
+<h2>August 11, 2020 #02</h2>
+
+<p>Subject: Update</p>
+
+<p>Helen Weir is going to be operated on today at 5pm. They are going to remove this mass ! Much prayer needed !!</p>
+<hr>
+</div>
+
+<div>
+<h2>August 11, 2020</h2>
+
+<p>Subject: Updates and urgent prayer!</p>
+
+<p>Brother Ernie Wiant is doing well. He is in a regular room ! His surgery went well and the doctor said if he continues doing well he could go home Friday Praise !!!! </p>
+
+<p>Gloria also got a good report on a health issue!! So Praise God !!</p>
+
+<p>Lets load their mailbox up with cards...</p>
+
+<blockquote>
+<p>P.O. Box 268</p>
+
+<p>Stephens City, VA 22655</p>
+</blockquote>
+
+<p><em>Urgent Prayer!!</em></p>
+
+<p>Helen Weir was admitted to WMC this morning with an urgent prayer need!</p>
+
+<p>She has a growth around her large intestine, around liver and kidneys. Please pray for her, her niece Jeanne Tally and sister Ellen Grant. </p>
+
+<p>Please pray for my brother -in-law Dallas Hartley and my sister Carolyn.</p>
+
+<p>Dallas has not been doing well for these months. He has been in the hospital and rehab and now back at home but is not doing well. He has a therapist coming to the house but is still unable to get up or do anything for himself. He had a liver transplant years ago and now this liver is failing with other health challenges.</p>
+
+<p>My sister is not well either but is his on call 24 hour caregiver. It&#39;s very hard on her.</p>
+
+<p>If you would like to send a card would be nice...</p>
+
+<blockquote>
+<p>4374 Martinsburg Pike</p>
+
+<p>Clearbrook, VA 22624 </p>
+</blockquote>
+
+<p> (They are homebound members of SVBC)</p>
+
+
+<hr>
+</div>
+
+<div>
 <h2>August 06, 2020</h2>
 
 <p>Subject - Pastor's Devotional</p>
@@ -53,61 +143,6 @@
 <p>Prayers</p>
 
 
-<hr>
-</div>
-
-<div>
-<h2>July 30, 2020</h2>
-
-<p>Subject - Pastor's Devotional</p>
-
-<iframe src="private/updates/devotional_20200730.pdf" width="96%" height="700"></iframe>
-<hr>
-
-</div>
-
-<div>
-<h2>July 29, 2020</h2>
-
-<p>Subject - Love Offering</p>
-
-<p>This Sunday August 2, 2020 we will have an Love Offering Box in the Foyer for donations for Betsy Farel.</p>
-
-<p>Blessings</p>
-
-<hr>
-</div>
-
-<div>
-<h2>July 27, 2020</h2>
-
-<p>Subject - Funeral Arrangements</p>
-
-<p>Funeral Arrangements for Pastor Farel</p>
-
-<blockquote>
-<p>Colonial Funeral Home</p>
-
-<p>210 Edward Ferry Rd NE</p>
-
-<p>Leesburg, VA 20176</p>
-</blockquote>
-
-<p>Due to the Coronavirus a private funeral will be held at Colonial Funeral Home on Wednesday at 11am. Family viewing 10-11am Mike Grooms Officiating.</p>
-
-<p>Burial will be at Lamps United Methodist Church in Mount Williams</p>
-
-<p>Memorial Contributions may be made to:</p>
-
-<blockquote>
-<p>The Association of Baptist for World Evangelism</p>
-
-<p>ABWE Foundation LLC</p>
-
-<p>PO Box 8585</p>
-
-<p>Harrisburg, PA 17105</p>
-</blockquote>
 <hr>
 </div>
 
