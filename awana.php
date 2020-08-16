@@ -41,6 +41,11 @@
 
 <!-- <p><a href="docs/awana-calendar.pdf" class="nav">2018-2019 Awana Calendar</a></p> --> <!-- calendar place holder -->
 
+<iframe src="docs/awana-calendar_2020-2021.pdf" width="96%" height="500"></iframe>
+
+<p><a href="docs/awana-calendar_2020-2021.pdf" class="nav">2020-2021 Awana Calendar</a></p>
+
+
 <p>Be sure to follow our Facebook Page for updates and photos @ <a href="https://wwww.facebook.com/svbc.awana" class="nav" title="Awanas on Facebook">Awana Facebook!</a></p>
 
 <footer> <?php include('includes/footer.php'); ?> </footer>
