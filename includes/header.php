@@ -28,6 +28,7 @@
 		<li><a href="https://www.svbcfamily.com/events.php">EVENTS</a></li>
 		<li><a href="https://www.svbcfamily.com/updates.php">UPDATES</a></li>
 		<li><a href="https://www.svbcfamily.com/photos.php">PHOTOS</a></li>
+		<li><a href="https://www.svbcfamily.com/sermons.php">SERMONS</a></li>
 		<li><img src="/media/logo_200x200.png" width="50" height="50" alt="svbc logo"/></li>
     	</ul>
   	</nav>

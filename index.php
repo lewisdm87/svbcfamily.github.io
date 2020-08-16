@@ -29,10 +29,6 @@
 	 </div>
 
 	<div class="services">
-		<p>The corona pandemic has services put on a temporary hold, but while social distancing and travel restrictions are in effect we are offering Drive-In Sunday Services at 10:30am. Service is broadcast live to your car radio!  </p>
-		<br>
-		
-		<!--
 		 <table class="tbl-sunday"> <caption>Sunday Services</caption> 
 			<tr> <td>9:00am</td> <td>-</td> <td>10:00am</td> <td>Sunday School</td> </tr> 
 			<tr> <td>10:00am</td> <td>-</td> <td>10:20am</td> <td>Fellowship in the Gym</td> </tr>
@@ -41,10 +37,9 @@
 
 		<table class="tbl-wednesday"> <caption>Wednesday Nights</caption> 
 			<tr> <td>6:30pm</td> <td>-</td> <td>7:30pm</td> <td>Devotion and Intentional Prayer</td> </tr> 
-			<tr> <td>6:30pm</td> <td>-</td> <td>8:30pm</td> <td>Awana Clubs*</td> </tr> 
+			<tr> <td>6:15pm</td> <td>-</td> <td>8:30pm</td> <td>Awana Clubs*</td> </tr> 
 			<tr> <td colspan="4">*Meets September - May</td> </tr>
 		 </table>
-		 --> 
 	</div>
 
 	<div class="main">

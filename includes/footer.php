@@ -22,7 +22,7 @@
 	</div>
 	
 	<div class="footer-copyRight">
-		Copyright &copy; 2019 Shenandoah Valley Baptist Church. All rights reserved.
+		Copyright &copy; 2020 Shenandoah Valley Baptist Church. All rights reserved.
 	</div>
 		
  	<div class="footer-social">
