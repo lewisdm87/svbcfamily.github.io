@@ -18,6 +18,25 @@
 </div>
 
 <div>
+<h2>August 19, 2020</h2>
+<p>Subject - Pastor's Devotional</p>
+<iframe src="private/updates/devotion_20200819.pdf" width="96%" height="750"></iframe>
+<hr>
+</div>
+
+<div>
+<h2>August 18, 2020</h2>
+
+<p>Subject - Updates and urgent prayer!</p>
+
+<p>
+	Helen Weir had a stroke late this afternoon. Please be in prayer for her.
+</p>
+
+<hr>
+</div>
+
+<div>
 <h2>August 13, 2020</h2>
 
 <p>Subject - Update</p>
@@ -107,43 +126,5 @@
 <hr>
 </div>
 
-<div>
-<h2>August 06, 2020</h2>
-
-<p>Subject - Pastor's Devotional</p>
-
-<iframe src="private/updates/devotional_20200806.pdf" width="96%" height="700"></iframe>
-<hr>
-
-</div>
-
-
-<div>
-<h2>August 06, 2020</h2>
-
-<p>Subject - Update on Ernie Wiant</p>
-
-<p>Ernie did well with his surgery. He lost a lot of blood during the surgery because of the injury. They have him in ICU because of low blood pressure. Gloria said he had a great doctor and nurses. </p>
-
-<p>Gloria is having a hard time but is trusting the Lord. Much prayer is needed.</p>
-
-<p>Can send cards to PO Box 268, Stephens City, VA 22655</p>
-
-<p>Blessings</p>
-<hr>
-</div>
-
-<div>
-<h2>August 05, 2020</h2>
-
-<p>Subject - Ernie Wiant</p>
-
-<p>Ernie fell yesterday eve and broke his hip. He is in WMC and suppose to have surgery today. Please stay in prayer for him today !! Also remember Gloria in prayer as well. Will update when I hear something.</p>
-
-<p>Prayers</p>
-
-
-<hr>
-</div>
 
 <?php include('includes/footer.php') ?>
