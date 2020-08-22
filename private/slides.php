@@ -141,7 +141,5 @@ Indoor Temp: <?php echo $_POST["in-temp"]; ?>
 
 </div>
 
-<!-- Just need to make a comment to change git status -->
-
 </body>
 </html>
