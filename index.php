@@ -56,6 +56,12 @@
 	</div> 
 </div>
 
+<div>
+<p>Thanks for stopping by! If you don't mind please take a minute to fill out a quick tech survey I'm collecting to revamp the SVBC Technology usage:</p>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScDWlv9zzSkahNtNh041wD1PTztpUghayEE0ACtwj4F8SR2gQ/viewform?embedded=true" width="640" height="4351" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
+
 
 <footer> <?php include('includes/footer.php'); ?> </footer>
 
