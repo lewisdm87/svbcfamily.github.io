@@ -18,6 +18,13 @@
 </div>
 
 <div>
+<h2>August 28, 2020</h2>
+<p>Subject - Pastor's Devotional</p>
+<iframe src="private/updates/devotion_20200828.pdf" width="96%" height="750"></iframe>
+<hr>
+</div>
+
+<div>
 <h2>August 19, 2020</h2>
 <p>Subject - Pastor's Devotional</p>
 <iframe src="private/updates/devotion_20200819.pdf" width="96%" height="750"></iframe>
@@ -57,74 +64,5 @@
 <hr>
 
 </div>
-
-
-<div>
-<h2>August 12, 2020</h2>
-
-<p>Subject - Update</p>
-
-<p>Helen Weir&#39;s surgery has been moved to this Friday 8/14/2020</p>
-
-<p>She is on a blood thinner so they have to delay the surgery until Friday.</p>
-
-<p>Please continue to pray for her and her family.</p>
-
-
-<hr>
-</div>
-
-<div>
-<h2>August 11, 2020 #02</h2>
-
-<p>Subject: Update</p>
-
-<p>Helen Weir is going to be operated on today at 5pm. They are going to remove this mass ! Much prayer needed !!</p>
-<hr>
-</div>
-
-<div>
-<h2>August 11, 2020</h2>
-
-<p>Subject: Updates and urgent prayer!</p>
-
-<p>Brother Ernie Wiant is doing well. He is in a regular room ! His surgery went well and the doctor said if he continues doing well he could go home Friday Praise !!!! </p>
-
-<p>Gloria also got a good report on a health issue!! So Praise God !!</p>
-
-<p>Lets load their mailbox up with cards...</p>
-
-<blockquote>
-<p>P.O. Box 268</p>
-
-<p>Stephens City, VA 22655</p>
-</blockquote>
-
-<p><em>Urgent Prayer!!</em></p>
-
-<p>Helen Weir was admitted to WMC this morning with an urgent prayer need!</p>
-
-<p>She has a growth around her large intestine, around liver and kidneys. Please pray for her, her niece Jeanne Tally and sister Ellen Grant. </p>
-
-<p>Please pray for my brother -in-law Dallas Hartley and my sister Carolyn.</p>
-
-<p>Dallas has not been doing well for these months. He has been in the hospital and rehab and now back at home but is not doing well. He has a therapist coming to the house but is still unable to get up or do anything for himself. He had a liver transplant years ago and now this liver is failing with other health challenges.</p>
-
-<p>My sister is not well either but is his on call 24 hour caregiver. It&#39;s very hard on her.</p>
-
-<p>If you would like to send a card would be nice...</p>
-
-<blockquote>
-<p>4374 Martinsburg Pike</p>
-
-<p>Clearbrook, VA 22624 </p>
-</blockquote>
-
-<p> (They are homebound members of SVBC)</p>
-
-
-<hr>
-</div>
-
 
 <?php include('includes/footer.php') ?>
