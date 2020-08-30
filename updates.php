@@ -18,6 +18,17 @@
 </div>
 
 <div>
+<h2>August 29, 2020</h2>
+
+<p>Subject - prayer need</p>
+
+<p>Helen Weir went home to be with her Lord this evening around 6 pm. Prayer for the family is appreciated!</p>
+
+
+<hr>
+</div>
+
+<div>
 <h2>August 28, 2020</h2>
 <p>Subject - Pastor's Devotional</p>
 <iframe src="private/updates/devotion_20200828.pdf" width="96%" height="750"></iframe>
