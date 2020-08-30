@@ -17,9 +17,11 @@
 <h1>Sunday Sermon</h1>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eGK2MwAAADE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BBaCraIszXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>August 23, 2020</p>
+<h2>August 30, 2020</h2>
+
+
 <br>
 <p>You can view previous sermons on our YouTube Channel <a href="https://www.youtube.com/channel/UCVNMH7wzOzSwZ6l-HnoKC7g"class="nav">here</a>.</p>
 <br>
