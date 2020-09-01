@@ -18,6 +18,46 @@
 </div>
 
 <div>
+<h2>August 31, 2020</h2>
+
+<p>Subject - Address</p>
+
+<p>Church Family,</p>
+
+<p>Here are the addresses to send cards to regarding the passing of Helen Weir.</p>
+
+<p>Helen made her home with her neice , Jeanne Tally, at </p>
+
+<blockquote>
+<p>1321 Sandy Hook Road, Strasburg, VA 22657</p>
+</blockquote>
+
+<p>Ellen Grant ( Helen&#39;s sister ) </p>
+
+<blockquote>
+<p>45 Hailey Ln. Unit 4, Strasburg, Va 22657</p>
+</blockquote>
+
+<p>*** *** ***</p>
+
+<p>Subject - Funeral Arrangements for Helen Weir</p>
+
+<p><strong>Tharp Funeral Home 118 Commonwealth Dr. Madison Heights, VA</strong></p>
+
+<p>Family night : Wed. Sept 2, 6-8 pm</p>
+
+<p><strong>First Baptist Church of Monroe 139 Frances Ave. Monroe, VA</strong></p>
+
+<p>Funeral Thursday Sept 3, at 1 pm</p>
+
+<p>Internment : Fort Hill Cemetery 5196 Fort Ave. Lynchburg, VA</p>
+
+
+
+<hr>
+</div>
+
+<div>
 <h2>August 29, 2020</h2>
 
 <p>Subject - prayer need</p>
