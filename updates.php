@@ -18,6 +18,22 @@
 </div>
 
 <div>
+<h2>September 01, 2020</h2>
+
+<p>Subject - Ladies Fall Bible Study</p>
+
+<p>Ladies Fall Bible Study starts this Sunday!</p>
+
+<p>This fall, the ladies of SVBC will be studying &quot;Having a Mary Heart in a Martha World – Finding Intimacy with God in the Busyness of Life&quot;. We&#39;ve got a few slots left and would love to have you join us. We meet every other week at 5pm on Sundays starting with a kick-off this Sunday, 6 September. We usually meet in a home setting, but are also looking into remote participation options.</p>
+
+<p>To reserve your spot, contact either Becky Helmick (540-327-4131) or Cathy Tilton (703-472-5546). The cost of the book + study guide is $28, with scholarships available. We need to get our order in asap, so please get in touch if you are interested.</p>
+
+<p>SVBC Women&#39;s Ministry:</p>
+
+<hr>
+</div>
+
+<div>
 <h2>August 31, 2020</h2>
 
 <p>Subject - Address</p>
@@ -92,28 +108,6 @@
 </p>
 
 <hr>
-</div>
-
-<div>
-<h2>August 13, 2020</h2>
-
-<p>Subject - Update</p>
-
-<p>Ernie Wiant came home yesterday evening. Please be in prayer for his recovery and for Gloria with being the caregiver and also taking care of running the business. </p>
-
-<p>Remember Helen&#39;s surgery tomorrow. Don&#39;t have a time yet , just pray.</p>
-
-<hr>
-</div>
-
-<div>
-<h2>August 13, 2020</h2>
-
-<p>Subject - Pastor's Devotional</p>
-
-<iframe src="private/updates/devotion_20200813.pdf" width="96%" height="700"></iframe>
-<hr>
-
 </div>
 
 <?php include('includes/footer.php') ?>
