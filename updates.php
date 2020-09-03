@@ -18,6 +18,13 @@
 </div>
 
 <div>
+<h2>September 03, 2020</h2>
+<iframe src="private/updates/devotion-20200903.pdf" width="96%" height="750"></iframe>
+
+<hr>
+</div>
+
+<div>
 <h2>September 01, 2020</h2>
 
 <p>Subject - Ladies Fall Bible Study</p>
@@ -42,7 +49,7 @@
 
 <p>Here are the addresses to send cards to regarding the passing of Helen Weir.</p>
 
-<p>Helen made her home with her neice , Jeanne Tally, at </p>
+<p>Helen made her home with her niece , Jeanne Tally, at </p>
 
 <blockquote>
 <p>1321 Sandy Hook Road, Strasburg, VA 22657</p>
