@@ -91,30 +91,5 @@
 <hr>
 </div>
 
-<div>
-<h2>August 28, 2020</h2>
-<p>Subject - Pastor's Devotional</p>
-<iframe src="private/updates/devotion_20200828.pdf" width="96%" height="750"></iframe>
-<hr>
-</div>
-
-<div>
-<h2>August 19, 2020</h2>
-<p>Subject - Pastor's Devotional</p>
-<iframe src="private/updates/devotion_20200819.pdf" width="96%" height="750"></iframe>
-<hr>
-</div>
-
-<div>
-<h2>August 18, 2020</h2>
-
-<p>Subject - Updates and urgent prayer!</p>
-
-<p>
-	Helen Weir had a stroke late this afternoon. Please be in prayer for her.
-</p>
-
-<hr>
-</div>
 
 <?php include('includes/footer.php') ?>
