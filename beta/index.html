@@ -27,6 +27,8 @@ nonce="7HPDU108"></script>
 <a href="#sermon">Sermon</a>
 <a href="#social">Social</a>
 <a href="#blog">Blog</a>
+<a href="#photos">Photo Galleries</a>
+<a href="#calendar">Church Calendar</a>
 <a href="#contact">Contact</a>
 <a href="#donate">Donate</a>
 </div>
@@ -50,7 +52,7 @@ nonce="7HPDU108"></script>
 	or need care, call us at <a href="tel:+1 540-868-4020">540-868-4020</a> or fill out
 	the form below.</p>
 
-<form>
+<form action="php/care.php" method="post">
 	<label for="fname">Name*</label>
 	<input type="text" id="fname" name="fname" placeholder="First Name">
 	<input type="text" id="lname" name="lname" placeholder="Last Name"><br>
@@ -332,7 +334,7 @@ Church.</p>
 </table>
 </div>
 
-<!-- calendar -->
+<!-- awana calendar -->
 <div>
 <figure>
 	<img src="img/awana-calendar-2020-2021.png" alt="Calendar"
@@ -487,6 +489,19 @@ We need to get our order in asap, so please get in touch if you are interested.<
 </div>
 </div>
 
+<!-- Photo Galleries -->
+<div class="sub">	
+<h2 id="photos">Photo Galleries</h2>
+	
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190255795@N08/albums/72157715960590451" title="The Millers"><img src="https://live.staticflickr.com/65535/50339844897_d9797a293c_z.jpg" width="100%" height="480" alt="The Millers"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+</div>
+
+<!-- Church Calendar -->
+<div class="sub">
+<h2 id="calendar">Church Calendar</h2>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=YXYuc3ZiY2ZhbWlseUBnbWFpbC5jb20&amp;src=dWRqOG5mbzkzaHAxaW02c3YyMmNqZHY1NGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=bDU2MzEzb2o1dml2YmJiNG9wcW40OXIydmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%230B8043&amp;color=%23D50000&amp;color=%23AD1457&amp;mode=AGENDA" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe></div>
+
 <!-- Contact Us -->
 <div class="sub">
 <h2 id="contact">Contact Us</h2>
@@ -496,7 +511,7 @@ We need to get our order in asap, so please get in touch if you are interested.<
 <div class="container"> 
 	<p>Form submissions will be sent to info@svbcfamily.com. </p> <p>* Required</p> 
 
-<form id="contact-form" method="post" action="php/contact.php" role="form"> 
+<form id="contact-form" method="post" action="beta/php/contact.php" role="form"> 
 
 	<div class="row">
 		<div class="label"> <label for="form_name">First Name*</label> </div> 
@@ -622,7 +637,7 @@ We need to get our order in asap, so please get in touch if you are interested.<
 
 <ol>
 	<li> Enter the amount you want to donate to SVBC; press tab key.
-	<li> Click the Donate button to be transfered to Paypal and complete your donation.
+	<li> Click the Donate button to be transferred to Paypal and complete your donation.
 </ol>
 </div>
 
