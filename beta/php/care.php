@@ -1,2 +1,2 @@
-<? php eco $POST["fname"];?><br>
-I told you the forms don't work.
+Welcome <?php echo $_POST["fname"];?><br>
+I told you, the forms don't work. quit trying.
