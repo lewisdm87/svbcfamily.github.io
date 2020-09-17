@@ -4,7 +4,74 @@
 <title>SVBC Homepage</title>
 <link rel="stylesheet" href="svbc.css">
 
-<style></style>
+<style>
+	form {
+  /* Center the form on the page */
+  margin: 0 auto;
+  width: 400px;
+  /* Form outline */
+  padding: 1em;
+  border: 1px solid #CCC;
+  border-radius: 1em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+form li + li {
+  margin-top: 1em;
+}
+
+label {
+  /* Uniform size & alignment */
+  display: inline-block;
+  width: 130px;
+  text-align: right;
+}
+
+input, 
+checkbox,
+textarea {
+  /* To make sure that all text fields have the same font settings
+     By default, textareas have a monospace font */
+  font: 1em sans-serif;
+
+  /* Uniform text field size */
+  width: 250px;
+  box-sizing: border-box;
+
+  /* Match form field borders */
+  border: 1px solid #999;
+}
+
+input:focus, 
+textarea:focus {
+  /* Additional highlight for focused elements */
+  border-color: #000;
+}
+
+textarea {
+  /* Align multiline text fields with their labels */
+  vertical-align: top;
+
+  /* Provide space to type some text */
+  height: 5em;
+}
+
+.button {
+  /* Align buttons with the text fields */
+  padding-left: 130px; /* same size as the label elements */
+}
+
+button {
+  /* This extra margin represent roughly the same space as the space
+     between the labels and their text fields */
+  margin-left: .5em;
+}
+</style>
 </head>
 
 <body>
@@ -46,47 +113,60 @@ nonce="7HPDU108"></script>
 
 <!-- Care -->
 <div class="sub">
-<h2 id="care">Care</h2>
+<h2>Care</h2>
 <h3>Need Care?</h3>
 <p>We want to help ease your burden by taking it all to God. If you have a prayer request
 	or need care, call us at <a href="tel:+1 540-868-4020">540-868-4020</a> or fill out
 	the form below.</p>
 
-<form action="php/care.php" method="post">
-	<label for="fname">Name*</label>
-	<input type="text" id="fname" name="fname" placeholder="First Name">
-	<input type="text" id="lname" name="lname" placeholder="Last Name"><br>
-	
-	<label for="phone">Phone*</label>
-	<input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
-		placeholder="###-###-####"><br>
-	
-	<label for="email">Email*</label>
-	<input type="text" id="email" name="email" placeholder="example@email.com">
-	
-	<label for="confirm">Confirm Email*</label>
-	<input type="text" id="confirm"name="confirm" placeholder="example@email.com"><br>
-	
-	
-	<p>How can we pray for you? (Check all that apply)*</p>
-	<input type="checkbox" id="hospitalization" value="Hospitalization">
-		<label for="hospitalization">Hospitalization</label><br>
-	
-	<input type="checkbox" id="biblical-guidance" value="Biblical Guidance">
-		<label for="biblical-guidance">Biblical Guidance</label><br>
-	
-	<input type="checkbox" id="funeral" value="Funeral">
-		<label for="funeral">Funeral</label><br>
-	
-	<input type="checkbox" id="grocery-needs" value="Grocery Needs">
-		<label for="grocery-needs">Grocery Needs</label><br>
-	
-	<label for="other">*Other</label>
-	<input type="textarea" id="other" name="other" placeholder="Something else / not listed..."><br>
-	
-	<input type="submit" value="Submit">
+<form action="/beta/php/care-page" method="post" accept-charset="utf-8">
+	<ul>
+		<li>
+			<label for="fname">First Name:</label>
+			<input type="text" id="fname" name="care_fname"
+			placeholder="First Name">
+		</li>
+		<li>
+			<label for="lname">Last Name:</label>
+			<input type="text" id="lname" name="care_lname"
+			placeholder="Last Name">
+		</li>
+		<li>
+			<label for="phone">Phone:</label> 
+			<input type="phone" id="phone" name="care_phone"
+			placeholder="###-###-####">
+		</li>
+		<li>
+			<label for="email">E-Mail:</label>
+			<input type="email" id="email" name="care_email"
+			placeholder="email@service.com">
+		</li>
+		<li>
+			<label for="hospital">Hospitalization:</label>
+			<input type="checkbox" id="hospital" name="care_hospital">
+		</li>
+		<li>
+			<label for="bible">Biblical Guidance:</label>
+			<input type="checkbox" id="bible" name="care_bible">
+		</li>
+			<label for="funeral">Funeral:</label>
+			<input type="checkbox" id="funeral" name="care_funeral">
+		</li>
+		<li>
+			<label for="grocery">Grocery Need:</label>
+			<input type="checkbox" id="grocery" name="care_grocery">
+		</li>
+		<li>
+			<label for="other">Other:</label>
+			<textarea id="msg" name="user_message"
+			placeholder="Something else we forgot to mention...">
+			</textarea>
+		</li>
+		<li class="button">
+			<button type="submit">Submit</button>
+		</li>
+	</ul>
 </form>
-
 </div>
 
 <!-- Twitter Feed -->
@@ -508,66 +588,45 @@ We need to get our order in asap, so please get in touch if you are interested.<
 <h3><i>If there's anything else we can do for you let us know!</i></h3>
 
 <!-- Contact Form -->
-<div class="container"> 
-	<p>Form submissions will be sent to info@svbcfamily.com. </p> <p>* Required</p> 
-
-<form id="contact-form" method="post" action="beta/php/contact.php" role="form"> 
-
-	<div class="row">
-		<div class="label"> <label for="form_name">First Name*</label> </div> 
-		<div class="form-group"> <input id="form_name" type="text" name="name" 
-			placeholder="Please enter your firstname *" required="required" 
-			data-error="Firstname is required."> 
-		</div> <div class="help-block with-errors"></div> 
-	</div>
-
-	<div class="row"> 
-		<div class="label"> <label for="form_lastname">Last Name*</label> </div> 
-		<div class="form-group"> <input id="form_lastname" type="text" name="surname" 
-			placeholder="Please enter your lastname *" required="required" 
-			data-error="Lastname is required."> 
-		</div><div class="help-block with-errors"></div>
-	 </div>
-
-	<div class="row"> 
-		<div class="label"> <label for="form_email">Email*</label> </div> 
-		<div class="form-group"> <input id="form_email" type="email" name="email" 
-			placeholder="Please enter your email *" required="required" 
-			data-error="Valid email is required."> 
-		</div><div class="help-block with-errors"></div>
-	</div>
-
-	<div class="row"> 
-		<div class="label"> <label for="form_need">Subject*</label> </div> 
-		<div class="form-group"> <select id="form_need" name="need" 
-			required="required" data-error="Please specify your need."> 
-			<option value=""></option> 
-			<option value="Request quotation">Request information</option> 
-			<option value="Request order status">Request prayer</option> 
-			<option value="Other">Other</option> </select> 
-		</div><div class="help-block with-errors"></div> 
-	 </div>
-
-	<div class="row">
-		 <div class="label"> <label for="form_message">Message*</label> </div>
-		 <div class="form-group"> <textarea id="form_message" name="message" 
-			placeholder="Message details *" rows="4" cols="190" required="required"
-			 data-error="Please, leave us a message."></textarea> 
-		</div><div class="help-block with-errors"></div> 
-	 </div>
-
-	<div class="buttons"> 
-		<div class="button-spacer"></div> 
-		<div class="button-clear"> <input type="reset" value="RESET"> </div>
-
-		<div class="button-submit"> <input type="submit" class="btn btn-success btn-send"
-			 value="SUBMIT"> 
-		</div> 
-	</div>
-
-</form> 
-
-</div>
+<form action="/beta/php/contact-handler" method="post">
+	<ul>
+		<li>
+			<label for="fname">First Name:</label>
+			<input type="text" id="fname" name="contact_fname"
+			placeholder="First Name">
+		</li>
+		<li>
+			<label for="lname">Last Name:</label>
+			<input type="text" id="lname" name="contact_lname"
+			placeholder="Last Name">
+		</li>
+		<li>
+			<label for="phone">Phone:</label>
+			<input type="phone" id="phone" name="contact_phone"
+			placeholder="###-###-####">
+		</li>
+		<li>
+			<label for="email">Email:</label>
+			<input type="email" id="email" name="contact_email"
+			placeholder="user@email.com">
+		</li>
+		<li>
+			<label for="subject">Subject:</label>
+			<select id="subject" name="contact_subject">
+				<option value="info">Request information</option>
+				<option value="prayer">Request prayer</option>
+				<option value="other">Other</option>
+			</select>
+		</li>
+		<li>
+			<label for="msg">Message:</label>
+			<textarea id="msg" name="contact_msg"> </textarea>
+		</li>
+		<li class="button">
+			<button type="submit">Submit</button>
+		</li>
+	</ul>
+</form>
 
 
 <div class="double">
