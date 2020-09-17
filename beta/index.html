@@ -8,7 +8,7 @@
 	form {
   /* Center the form on the page */
   margin: 0 auto;
-  width: 400px;
+  width: 500px;
   /* Form outline */
   padding: 1em;
   border: 1px solid #CCC;
@@ -22,25 +22,27 @@ ul {
 }
 
 form li + li {
-  margin-top: 1em;
+	margin-top: 1em;
 }
 
 label {
-  /* Uniform size & alignment */
-  display: inline-block;
-  width: 130px;
-  text-align: right;
+	display: inline-block;
+	width: 100px;
+	text-align: right;
 }
+
 
 input, 
 checkbox,
-textarea {
+textarea,
+select,
+phone {
   /* To make sure that all text fields have the same font settings
      By default, textareas have a monospace font */
   font: 1em sans-serif;
 
   /* Uniform text field size */
-  width: 250px;
+  width: 390px;
   box-sizing: border-box;
 
   /* Match form field borders */
@@ -113,7 +115,7 @@ nonce="7HPDU108"></script>
 
 <!-- Care -->
 <div class="sub">
-<h2>Care</h2>
+<h2 id="care">Care</h2>
 <h3>Need Care?</h3>
 <p>We want to help ease your burden by taking it all to God. If you have a prayer request
 	or need care, call us at <a href="tel:+1 540-868-4020">540-868-4020</a> or fill out
@@ -139,7 +141,7 @@ nonce="7HPDU108"></script>
 		<li>
 			<label for="email">E-Mail:</label>
 			<input type="email" id="email" name="care_email"
-			placeholder="email@service.com">
+			placeholder="user@email.com">
 		</li>
 		<li>
 			<label for="hospital">Hospitalization:</label>
@@ -158,8 +160,8 @@ nonce="7HPDU108"></script>
 		</li>
 		<li>
 			<label for="other">Other:</label>
-			<textarea id="msg" name="user_message"
-			placeholder="Something else we forgot to mention...">
+			<textarea id="msg" name="user_message">
+			Something else we forgot to mention...
 			</textarea>
 		</li>
 		<li class="button">
