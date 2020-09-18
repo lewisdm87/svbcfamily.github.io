@@ -5,84 +5,13 @@
 <link rel="stylesheet" href="svbc.css">
 
 <style>
-	form {
-  /* Center the form on the page */
-  margin: 0 auto;
-  width: 500px;
-  /* Form outline */
-  padding: 1em;
-  border: 1px solid #CCC;
-  border-radius: 1em;
-}
 
-ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-form li + li {
-	margin-top: 1em;
-}
-
-label {
-	display: inline-block;
-	width: 100px;
-	text-align: right;
-}
-
-
-input, 
-checkbox,
-textarea,
-select,
-phone {
-  /* To make sure that all text fields have the same font settings
-     By default, textareas have a monospace font */
-  font: 1em sans-serif;
-
-  /* Uniform text field size */
-  width: 390px;
-  box-sizing: border-box;
-
-  /* Match form field borders */
-  border: 1px solid #999;
-}
-
-input:focus, 
-textarea:focus {
-  /* Additional highlight for focused elements */
-  border-color: #000;
-}
-
-textarea {
-  /* Align multiline text fields with their labels */
-  vertical-align: top;
-
-  /* Provide space to type some text */
-  height: 5em;
-}
-
-.button {
-  /* Align buttons with the text fields */
-  padding-left: 130px; /* same size as the label elements */
-}
-
-button {
-  /* This extra margin represent roughly the same space as the space
-     between the labels and their text fields */
-  margin-left: .5em;
-}
 </style>
 </head>
 
 <body>
 
-<!-- FB JavaScript SDK for embedded FB feed -->
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" 
-src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" 
-nonce="7HPDU108"></script>
+
 
 <!-- Side navigation -->
 <div class="sidenav">
@@ -117,10 +46,13 @@ nonce="7HPDU108"></script>
 <div class="sub">
 <h2 id="care">Care</h2>
 <h3>Need Care?</h3>
-<p>We want to help ease your burden by taking it all to God. If you have a prayer request
-	or need care, call us at <a href="tel:+1 540-868-4020">540-868-4020</a> or fill out
-	the form below.</p>
+<p>We want to help ease your burden by taking it all to God.</p> 
+<p> If you have a prayer request or need care, call us at 
+	<a href="tel:+1 540-868-4020">540-868-4020</a> or fill out the form below.
+</p>
 
+<button type="button" class="collapsible">Show Form</button>
+<div class="content">
 <form action="/beta/php/care-page" method="post" accept-charset="utf-8">
 	<ul>
 		<li>
@@ -170,12 +102,17 @@ nonce="7HPDU108"></script>
 	</ul>
 </form>
 </div>
+</div>
 
 <!-- Twitter Feed -->
-<div id="announcements">
+<div class="sub">
+<h2 id="announcements">Announcements on Twitter</h2>
+<button type="button" class="collapsible">Show Announcements on Twitter</button>
+<div class="content">
 <a class="twitter-timeline" data-height="750" 
 href="https://twitter.com/svbcfamily?ref_src=twsrc%5Etfw">Tweets by svbcfamily</a> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 </div>
 
 <!--  About Us  --> 
@@ -184,7 +121,8 @@ href="https://twitter.com/svbcfamily?ref_src=twsrc%5Etfw">Tweets by svbcfamily</
 	<p>We are a church in the heart of the Shenandoah Valley that is focused on the whole
 		family. We have a place for anyone who wishes to join us in worshiping the Lord.
 		We know you'll find a warm and welcoming home with our church family.</p>
-
+<button type="button" class="collapsible">Read More</button>
+<div class="content">
 	<p>You can watch the morning service live on our <a href="https://www.facebook.com/svbcfamily">
 		FaceBook</a> page. Be sure to follow us on facebook for more information on upcoming events.</p>
 
@@ -196,13 +134,15 @@ href="https://twitter.com/svbcfamily?ref_src=twsrc%5Etfw">Tweets by svbcfamily</
 	<p>Children (Preschool - 8th Grade) are welcome to participate in the <a href="#awana">Awanas</a>
 		Program that meets on Wednesday Nights September-May.<a href="#awana">(More Detail)</a></p>
 </div>
+</div>
 
-<!--  Services  --> 
+<!--  Weekly Services  --> 
 <div class="sub">
 	<h2>Weekly Services</h2>
-
 	<!--Sunday Services-->
-	<div class="double">
+<button type="button" class="collapsible">Sunday Services</button>
+<div class="content">
+<div class="ctr">
 	<table>
 	<tr>
 		<th colspan="4">Sunday Services</th>
@@ -225,8 +165,13 @@ href="https://twitter.com/svbcfamily?ref_src=twsrc%5Etfw">Tweets by svbcfamily</
 		<td>Worship Service</td>
 	</tr>
 	</table>
+	</div>
+</div>
 
-	<!--Wednesday Nights-->
+<!--Wednesday Nights-->
+<button type="button" class="collapsible">Wednesday Nights</button>
+<div class="content">
+<div class="ctr">
 	<table>
 	<tr>
 		<th colspan="4">Wednesday Nights</th>
@@ -248,14 +193,31 @@ href="https://twitter.com/svbcfamily?ref_src=twsrc%5Etfw">Tweets by svbcfamily</
 	</tr>
 	</table>
 	</div>
+	</div>
+</div>
 
+<!--  Sermon  --> 
+<div class="sub">
+<h2 id="sermon">Sermon</h2>
+<div class="ctr">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qs3V2t9CkjQ" 
+	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; 
+	picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+<h3>September 13, 2020</h3>
+
+<p>You can view previous sermons on our YouTube Channel 
+<a href="https://www.youtube.com/channel/UCVNMH7wzOzSwZ6l-HnoKC7g">here</a>.</p>
+<p>Please help our channel grow by clicking the thumbs up and subscribing to the channel.</p>
 </div>
 
 <!--  From the Pastor  --> 
 <div class="sub">
+<button type="button" class="collapsible">Message from the Pastor</button>
+<div class="content">
 <!-- text -->
 <div>
-<h2>From the Pastor</h2>
 <p>Thank you so much for visiting the Web Page of Shenandoah Valley Baptist Church.
 We would enjoy the opportunity to meet you and your family so I want to personally invite
 you to come "kick the tires" so to speak and join us for a time of learning, fellowship,
@@ -275,12 +237,15 @@ style="width:100%"> <figcaption>Pastor Don Cherry with wife Debbie</figcaption>
 
 </div>
 </div>
+</div>
 
 <!--  Worship  --> 
 <div class="sub">
+<button type="button" class="collapsible">Worship</button>
+<div class="content">
 <!-- text -->
 <div>
-<h2>Praise & Worship Leader</h2>
+<p>Praise & Worship Leader</p>
 <p>Garret and his wife Nicole are recent graduates of WVU who now live in Martinsburg (WV)
 area. Both WV natives, Garrett has been involved in praise teams both in High School
 and college. We are grateful to have Garrett lead our time of praise and so appreciate he 
@@ -293,14 +258,17 @@ style="width:100%"> <figcaption>Worship Leader Garret and wife Nicole Sheppard"<
 </figure>
 </div>
 </div>
+</div>
 
 <!-- Theology --> 
 <div class="sub">
 <h2 id="theology">Our Theology</h2>
+</div>
 
 <!-- statement of faith -->
-<div>
-<h3>Statement of Faith</h3>
+<button type="button" class="collapsible">Statement of Faith</button>
+<div class="content">
+<p>Statement of Faith</p>
 <ol>
 	<li>We believe in the verbal inspiration and authority of the Scriptures. We believe
 	that the Bible reveals God, the fall of man, the way of salvation, and God's plan and 
@@ -325,30 +293,33 @@ style="width:100%"> <figcaption>Worship Leader Garret and wife Nicole Sheppard"<
 </div>
 
 <!-- 5g's -->
-<div>
-<h3>5 G's</h3>
+<button type="button" class="collapsible">5G's</button>
+<div class="content">
+<p>5 G's</p>
 <ul>
-	<li>Glorify God ("Love God with all your heart")
+	<li>Glorify God ("Love God with all your heart")</li>
 	
-	<li>Go share the Gospel ("go...make disciples")
+	<li>Go share the Gospel ("go...make disciples")</li>
 	
-	<li>Grow in God's Word ("teach them... all things")
+	<li>Grow in God's Word ("teach them... all things")</li>
 	
-	<li>Give of ourselves ("love your neighbor as yourself")
+	<li>Give of ourselves ("love your neighbor as yourself")</li>
 	
-	<li>Gather for fellowship ("baptize" or incorporate into fellowship)
+	<li>Gather for fellowship ("baptize" or incorporate into fellowship)</li>
 </ul>
 </div>
 
 <!-- purpose -->
-<div>
+<button type="button" class="collapsible">Purpose</button>
+<div class="content">
 <h3>Purpose</h3>
 <p>We believe a great commitment to the Great Commandment and the Great Commission
 will grow a Great Church!</p>
 </div>
 
 <!-- great commandment -->
-<div>
+<button type="button" class="collapsible">Great Commandment</button>
+<div class="content">
 <h3>What is the Great Commandment?</h3>
 <p>Jesus said: Love the Lord your God with all your heart... soul... and mind. This
 is the first and greatest commandment. And the second is like it: Love your neighbor as 
@@ -357,7 +328,8 @@ yourself. All the Law and Prophets hang on these two commandments.</p>
 </div>
 
 <!-- great commission -->
-<div>
+<button type="button" class="collapsible">Great Commission</button>
+<div class="content">
 <h3>What is the Great Commission?</h3>
 <p>Jesus said: God and make disciples of all nations, baptizing them in the name of the
 Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have
@@ -365,13 +337,13 @@ commanded you.</p>
 <p>Matthew 28:19-20</p>
 </div>
 
-</div>
-
 <!--  Awana Clubs  --> 
 <div class="sub">
 <h2 id="awana">Awana Clubs</h2>
 
 <!-- mission -->
+<button type="button" class="collapsible">Our Mission</button>
+<div class="content">
 <div>
 <h3>Our Mission</h3>
 <p>Awana's goal at Shenandoah Valley Baptist Church is to reach boys and girls with the
@@ -380,18 +352,24 @@ Sparks, Truth & Training, and Trek.</p>
 <p>In Awana we have quarterly themes, exciting songs, Bible stories, interactive games, 
 and small group time learning verses.</p>
 </div>
+</div>
 
 <!-- meetings -->
+<button type="button" class="collapsible">Meetings</button>
+<div class="content">
 <div>
 <h3>Meetings</h3>
 <p>Awana Clubs meets every Wednesday night September - May from 6:15pm - 8:00pm at the 
 Church.</p>
 <p>We meet in the gym and end our night downstairs in the main building</p>
 </div>
+</div>
 
 <!-- age ranges -->
-<div>
-<h3>Age Ranges</h3>
+<button type="button" class="collapsible">Age Ranges</button>
+<div class="content">
+<div class="ctr">
+
 <table>
 <tr>
 	<td>Cubbies</td>
@@ -415,46 +393,43 @@ Church.</p>
 </tr>
 </table>
 </div>
+</div>
 
 <!-- awana calendar -->
+<button type="button" class="collapsible">Awana Calendar</button>
+<div class="content">
 <div>
 <figure>
 	<img src="img/awana-calendar-2020-2021.png" alt="Calendar"
 	style="width:100%"><figcaption>2020-2021 Calendar</figcaption>
 </figure>
+</div>
 
 <p>Be sure to follow our Facebook Page for updates and photos @ 
 <a href="https://www.facebook.com/svbc.awana" title="Awanas on Facebook">
 Awana Facebook</a>!</p>
 </div>
 
-</div>
-
 <!--  Events  --> 
 <div class="sub">
+
 <h2 id="events">Events</h2>
 <!-- <p>There are currently no scheduled special events. Check back later.</p> -->
+
+<button type="button" class="collapsible">Events</button>
+<div class="content">
 <figure>
 	<img src="events/refresh.png" alt="Refresh Flyer" style="width:100%">
 	<figcaption>Refresh Gathering: September 13-16 2020</figcaption>
 </figure>
 </div>
-
-<!--  Sermon  --> 
-<div class="sub">
-<h2 id="sermon">Sermon</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qs3V2t9CkjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h3>September 13, 2020</h3>
-
-<p>You can view previous sermons on our YouTube Channel 
-<a href="https://www.youtube.com/channel/UCVNMH7wzOzSwZ6l-HnoKC7g">here</a>.</p>
-<p>Please help our channel grow by clicking the thumbs up and subscribing to the channel.</p>
 </div>
 
 <!--  Social  --> 
 <div class="sub">
 <h2 id="social">Interact with Us Online</h2>
 
+<div class="ctr">
 <!-- instagram placeholder -->
 <div>
 <h3>Instagram</h3>
@@ -464,7 +439,6 @@ Awana Facebook</a>!</p>
 	<figcaption>View Instagram</figcaption>
 </figure>
 </a>
-</div>
 
 <!-- facebook placeholder -->
 <div>
@@ -476,27 +450,35 @@ data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="f
 <a href="https://www.facebook.com/svbcfamily/">Shenandoah Valley Baptist Church</a>
 </blockquote></div>
 </div>
-
+</div>
+<!-- FB JavaScript SDK for embedded FB feed -->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" 
+src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" 
+nonce="7HPDU108"></script>
 
 </div>
 
 <!--  Blog - Updates  --> 
 <div class="sub">
+	
 <h2 id="blog">Blog / Updates</h2>
 <!-- 20200908 -->
+<button type="button" class="collapsible">September 08, 2020 - Message from Pastor Cherry</button>
+<div class="content">
 <div>
-<h3>September 08, 2020</h3>
-<h4>Message from Pastor Cherry</h4>
 <figure>
 	<img src="blog/msg-from-pastor-cherry-20200809.png"
 	alt="Letter from Pastor Cherry Sept. 08, 2020" style="width:100%"
 </figure>
 <hr>
 </div>
+</div>
+
 <!-- 20200903 -->
+<button type="button" class="collapsible">September 03, 2020 - Weekly Devotion</button>
+<div class="content">
 <div>
-<h3>September 03, 2020</h3>
-<h4>Pastor's Devotion Sept. 03, 2020</h4>
 <figure>
 	<img src="blog/devotion-20200903.png"
 	alter="Pastors Devotion Sep. 03, 2020" style="width:100%"
@@ -504,10 +486,12 @@ data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="f
 
 <hr>
 </div>
+</div>
+
 <!-- 20200901 -->
+<button type="button" class="collapsible">September 01, 2020 - Ladie's Bible Study</button>
+<div class="content">
 <div>
-<h3>September 01, 2020</h3>
-<h4>Ladies Fall Bible Study</h4>
 <p>Ladies Fall Bible Study starts this Sunday!</p>
 
 <p>This fall, the ladies of SVBC will be studying "Having a Mary Heart in a Martha 
@@ -524,7 +508,11 @@ We need to get our order in asap, so please get in touch if you are interested.<
 
 <hr>
 </div>
+</div>
+
 <!-- 20200831 -->
+<button type="button" class="collapsible">August 31, 2020 - Address Information</button>
+<div class="content">
 <div>
 <h3>August 31, 2020</h3>
 
@@ -562,31 +550,46 @@ We need to get our order in asap, so please get in touch if you are interested.<
 
 <hr>
 </div>
+</div>
+
 <!-- 20200829 -->
+<button type="button" class="collapsible">August 29, 2020 - Prayer Need</button>
+<div class="content">
 <div>
-<h3>August 29, 2020</h3>
-<h4>prayer need</h4>
 <p>Helen Weir went home to be with her Lord this evening around 6 pm. Prayer for the family is appreciated!</p>
 <hr>
 </div>
 </div>
 
 <!-- Photo Galleries -->
-<div class="sub">	
-<h2 id="photos">Photo Galleries</h2>
-	
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190255795@N08/albums/72157715960590451" title="The Millers"><img src="https://live.staticflickr.com/65535/50339844897_d9797a293c_z.jpg" width="100%" height="480" alt="The Millers"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+<div class="sub" id="photos">	
+<button type="button" class="collapsible">Photo Galleries</button>
+<div class="content">
+<p>Under Construction</p>
 </div>
 
 <!-- Church Calendar -->
 <div class="sub">
-<h2 id="calendar">Church Calendar</h2>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=YXYuc3ZiY2ZhbWlseUBnbWFpbC5jb20&amp;src=dWRqOG5mbzkzaHAxaW02c3YyMmNqZHY1NGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=bDU2MzEzb2o1dml2YmJiNG9wcW40OXIydmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%230B8043&amp;color=%23D50000&amp;color=%23AD1457&amp;mode=AGENDA" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe></div>
+<button id="calendar" type="button" class="collapsible">Church Calendar</button>
+<div class="content">
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;
+	bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;
+	src=YXYuc3ZiY2ZhbWlseUBnbWFpbC5jb20&amp;
+	src=dWRqOG5mbzkzaHAxaW02c3YyMmNqZHY1NGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;
+	src=bDU2MzEzb2o1dml2YmJiNG9wcW40OXIydmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;
+	color=%230B8043&amp;color=%23D50000&amp;color=%23AD1457&amp;mode=AGENDA" 
+	style="border:solid 1px #777" width="100%" height="600" frameborder="0" 
+	scrolling="no"></iframe></div>
+</div>
+
+
+<!-- Reach Out to Us -->
+<h2>Reach Out to Us</h2>
 
 <!-- Contact Us -->
 <div class="sub">
-<h2 id="contact">Contact Us</h2>
+<button id = "contact" type="button" class="collapsible">Contact Us</button>
+<div class="content">
 <h3><i>If there's anything else we can do for you let us know!</i></h3>
 
 <!-- Contact Form -->
@@ -630,10 +633,8 @@ We need to get our order in asap, so please get in touch if you are interested.<
 	</ul>
 </form>
 
-
-<div class="double">
-
 <!-- Address Table -->
+<div class="ctr">
 <table>
 	<th colspan="3">Address</th>
 	<tr>
@@ -647,8 +648,10 @@ We need to get our order in asap, so please get in touch if you are interested.<
 		<td>PO Box 1360 Stephens City, VA 22655</td>
 	</tr>
 </table>
+</div>
 
 <!-- Email table -->
+<div class="ctr">
 <table>
 	<th colspan="3">Email</th>
 	<tr>
@@ -662,8 +665,10 @@ We need to get our order in asap, so please get in touch if you are interested.<
 		<td><a href="mailto:pastor@svbcfamily.com">pastor@svbcfamily.com</a></td>
 	</tr>
 </table>
+</div>
 
 <!-- Tel tables -->
+<div class="ctr">
 <table>
 	<th colspan="3">Tel</th>
 	<tr>
@@ -678,12 +683,12 @@ We need to get our order in asap, so please get in touch if you are interested.<
 	</tr>
 </table>
 </div>
-</div>
 
+</div>
 <!--  Donate  --> 
 <div class="sub">
-<h2 id="donate">Donate</h2>
-
+<button id="donate" type="button" class="collapsible">Donate</button>
+<div class="content">
 <!-- text -->
 <div>
 <p>
@@ -724,6 +729,7 @@ We need to get our order in asap, so please get in touch if you are interested.<
 </div>
 
 <!-- Paypal Buttons (do NOT edit)-->
+<div class="ctr">
 <div id="paypal">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -731,6 +737,7 @@ We need to get our order in asap, so please get in touch if you are interested.<
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+</div>
 </div>
 <script>
 
@@ -755,6 +762,8 @@ function money_round(result)
 }
 
 </script>
+</div>
+</div>
 </div>
 
 <!-- Footer -->
@@ -791,6 +800,21 @@ function money_round(result)
 	
 </div>
 </div>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
 
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
 </body>
 </html>
