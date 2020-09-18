@@ -18,6 +18,12 @@
 </div>
 
 <div>
+<h2>September 17, 2020</h2>
+<iframe src="private/updates/devotion-20200917.pdf" width="96%" height="750"></iframe>
+<hr>
+</div>
+
+<div>
 <h2>September 08, 2020</h2>
 <iframe src="private/updates/msg-from-pastor-cherry-2020809.pdf" width="96%" height="750"></iframe>
 <hr>
