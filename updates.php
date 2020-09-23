@@ -18,6 +18,19 @@
 </div>
 
 <div>
+<h2>September 23, 2020</h2>
+
+<p>Subject - Dallas Hartley- Urgent</p>
+
+<p>Please pray for my brother-in -law. They have taken him to the ER. His blood pressure is low and kidneys are not working. He has been struggling. </p>
+
+<p>Thank you</p>
+
+<p>Connie</p>
+<hr>
+</div>
+
+<div>
 <h2>September 17, 2020</h2>
 <iframe src="private/updates/devotion-20200917.pdf" width="96%" height="750"></iframe>
 <hr>
@@ -52,55 +65,6 @@
 <hr>
 </div>
 
-<div>
-<h2>August 31, 2020</h2>
-
-<p>Subject - Address</p>
-
-<p>Church Family,</p>
-
-<p>Here are the addresses to send cards to regarding the passing of Helen Weir.</p>
-
-<p>Helen made her home with her niece , Jeanne Tally, at </p>
-
-<blockquote>
-<p>1321 Sandy Hook Road, Strasburg, VA 22657</p>
-</blockquote>
-
-<p>Ellen Grant ( Helen&#39;s sister ) </p>
-
-<blockquote>
-<p>45 Hailey Ln. Unit 4, Strasburg, Va 22657</p>
-</blockquote>
-
-<p>*** *** ***</p>
-
-<p>Subject - Funeral Arrangements for Helen Weir</p>
-
-<p><strong>Tharp Funeral Home 118 Commonwealth Dr. Madison Heights, VA</strong></p>
-
-<p>Family night : Wed. Sept 2, 6-8 pm</p>
-
-<p><strong>First Baptist Church of Monroe 139 Frances Ave. Monroe, VA</strong></p>
-
-<p>Funeral Thursday Sept 3, at 1 pm</p>
-
-<p>Internment : Fort Hill Cemetery 5196 Fort Ave. Lynchburg, VA</p>
-
-
-
-<hr>
-</div>
-
-<div>
-<h2>August 29, 2020</h2>
-
-<p>Subject - prayer need</p>
-
-<p>Helen Weir went home to be with her Lord this evening around 6 pm. Prayer for the family is appreciated!</p>
-
-
-<hr>
 </div>
 
 
