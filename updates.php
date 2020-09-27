@@ -18,6 +18,18 @@
 </div>
 
 <div>
+  <h2>September 27, 2020</h2>
+
+  <p>Subject - prayer request</p>
+
+  <p>I am requesting prayer for Kevin O&#39;Bryan, Marlenes son. Pray for Marlene also. Will update as we get test results.</p>
+
+  <p>Thanks, Wanda</p>
+
+<hr>
+</div>
+
+<div>
 <h2>September 24, 2020</h2>
 <p>Pastor's Devotional</p>
 <iframe src="private/updates/devotion-20200924.pdf" width="96%" height="750"></iframe>
