@@ -18,6 +18,21 @@
 </div>
 
 <div>
+	<h2>September 30, 2020</h2>
+
+<p>Subject - Announcements</p>
+
+<ol>
+	<li>Men&#39;s Group Meeting - This Saturday 9AM at the church. All men interested are invited to come as we will be planning the community service event for veterans, law enforcement and fire personnel. This will take place in on November 8th in the evening. Come on out Saturday at 9AM to help with this and enjoy a time of prayer and fellowship.</li>
+	<li>The AWANA ministry is still in need of some helpers as they are experiencing a growing number of children attending each week. Even if you can only help on a part-time basis please, let Barry or Pastor know of your availability and willingness.</li>
+</ol>
+
+
+
+<hr>
+</div>
+
+<div>
   <h2>September 27, 2020</h2>
 
   <p>Subject - prayer request</p>
