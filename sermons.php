@@ -17,10 +17,9 @@
 <h1>Sunday Sermon</h1>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HuCiMpAr9BM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pEo1KLsFRGY?start=122" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h2>September 27, 2020</h2>
-
+<h2>November 29, 2020</h2>
 
 <br>
 <p>You can view previous sermons on our YouTube Channel <a href="https://www.youtube.com/channel/UCVNMH7wzOzSwZ6l-HnoKC7g"class="nav">here</a>.</p>
